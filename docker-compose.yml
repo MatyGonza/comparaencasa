@@ -9,7 +9,6 @@ services:
             context: .
             dockerfile: ./docker/backend/Dockerfile
         
-        #entrypoint: /app/docker/backend/wsgi-entrypoint.sh
         volumes:
             - static_volume:/app/backend/django_static
         expose:
@@ -54,5 +53,5 @@ volumes:
     postgres_data: {}
 
 networks:
-  app-network:  # Define la red personalizada
+  app-network:
     driver: bridge

@@ -11,7 +11,6 @@ COPY ./frontend/public ./public
 COPY ./frontend/webpack.config.js ./
 COPY ./frontend/.babelrc ./
 RUN npm run build
-#COPY ./frontend/build ./build
 
 # The second stage
 # Copy React static files and start nginx

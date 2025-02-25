@@ -135,9 +135,7 @@ USE_TZ = True
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.2/howto/static-files/
-#MEDIA_URL = '/media/'
-#STATIC_URL = '/django_static/'
-#STATIC_ROOT = BASE_DIR / 'django_static'
+
 STATIC_URL = '/django_static/'
 STATIC_ROOT = '/app/backend/django_static'
 
