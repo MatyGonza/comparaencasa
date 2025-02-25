@@ -1,0 +1,6233 @@
+[
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0000636",
+        "fields": {
+            "primaryName": "William Shakespeare",
+            "birthYear": "1564",
+            "deathYear": "1616",
+            "primaryProfession": [
+                "writer",
+                "miscellaneous",
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt10095582",
+                "tt20711868",
+                "tt8632012",
+                "tt14297038"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0000875",
+        "fields": {
+            "primaryName": "L. Frank Baum",
+            "birthYear": "1856",
+            "deathYear": "1919",
+            "primaryProfession": [
+                "writer",
+                "producer",
+                "miscellaneous"
+            ],
+            "knownForTitles": [
+                "tt0032138",
+                "tt0000679",
+                "tt0089908",
+                "tt0004207"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0001908",
+        "fields": {
+            "primaryName": "Gilbert M. 'Broncho Billy' Anderson",
+            "birthYear": "1880",
+            "deathYear": "1971",
+            "primaryProfession": [
+                "director",
+                "actor",
+                "producer"
+            ],
+            "knownForTitles": [
+                "tt0001706",
+                "tt0183803",
+                "tt0003719",
+                "tt0176832"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0002161",
+        "fields": {
+            "primaryName": "Hans Albers",
+            "birthYear": "1891",
+            "deathYear": "1960",
+            "primaryProfession": [
+                "actor",
+                "producer",
+                "soundtrack"
+            ],
+            "knownForTitles": [
+                "tt0036191",
+                "tt1244668",
+                "tt0022869",
+                "tt0030730"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0002503",
+        "fields": {
+            "primaryName": "Harry Carey",
+            "birthYear": "1878",
+            "deathYear": "1947",
+            "primaryProfession": [
+                "actor",
+                "writer",
+                "producer"
+            ],
+            "knownForTitles": [
+                "tt0031679",
+                "tt0022495",
+                "tt0040724",
+                "tt0032247"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0003425",
+        "fields": {
+            "primaryName": "Asta Nielsen",
+            "birthYear": "1881",
+            "deathYear": "1972",
+            "primaryProfession": [
+                "actress",
+                "producer",
+                "director"
+            ],
+            "knownForTitles": [
+                "tt0012249",
+                "tt0015842",
+                "tt0001892",
+                "tt0132207"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0005717",
+        "fields": {
+            "primaryName": "Fructu\u00f3s Gelabert",
+            "birthYear": "1874",
+            "deathYear": "1955",
+            "primaryProfession": [
+                "director",
+                "cinematographer",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0004954",
+                "tt0000859",
+                "tt0001756",
+                "tt0002156"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0005869",
+        "fields": {
+            "primaryName": "Guido Seeber",
+            "birthYear": "1879",
+            "deathYear": "1940",
+            "primaryProfession": [
+                "cinematographer",
+                "director",
+                "special_effects"
+            ],
+            "knownForTitles": [
+                "tt0013829",
+                "tt0229543",
+                "tt0485853",
+                "tt0024036"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0007239",
+        "fields": {
+            "primaryName": "Henry Cronjager",
+            "birthYear": "1877",
+            "deathYear": "1967",
+            "primaryProfession": [
+                "cinematographer"
+            ],
+            "knownForTitles": [
+                "tt0011632",
+                "tt0017227",
+                "tt0013590",
+                "tt0015335"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0009872",
+        "fields": {
+            "primaryName": "Fritz Achterberg",
+            "birthYear": "1880",
+            "deathYear": "1971",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0012249",
+                "tt1878914",
+                "tt0357264",
+                "tt0830925"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0016799",
+        "fields": {
+            "primaryName": "Emil Albes",
+            "birthYear": "1861",
+            "deathYear": "1923",
+            "primaryProfession": [
+                "director",
+                "actor",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt4970192",
+                "tt14638262",
+                "tt0470948",
+                "tt0460764"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0017074",
+        "fields": {
+            "primaryName": "Ernesto de Albuquerque",
+            "birthYear": "1883",
+            "deathYear": "1940",
+            "primaryProfession": [
+                "director",
+                "cinematographer",
+                "editor"
+            ],
+            "knownForTitles": [
+                "tt0014292",
+                "tt0014518",
+                "tt0013543",
+                "tt1584827"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0022607",
+        "fields": {
+            "primaryName": "Carl Alstrup",
+            "birthYear": "1877",
+            "deathYear": "1942",
+            "primaryProfession": [
+                "actor",
+                "director",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt2346640",
+                "tt0278994",
+                "tt0001049",
+                "tt0029086"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0023107",
+        "fields": {
+            "primaryName": "Hermanos Alva",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "director",
+                "cinematographer",
+                "editor"
+            ],
+            "knownForTitles": [
+                "tt0002025",
+                "tt0000879",
+                "tt0000846",
+                "tt0000867"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0029671",
+        "fields": {
+            "primaryName": "Jean Angelo",
+            "birthYear": "1875",
+            "deathYear": "1933",
+            "primaryProfession": [
+                "actor",
+                "archive_footage"
+            ],
+            "knownForTitles": [
+                "tt0020182",
+                "tt0200457",
+                "tt0010969",
+                "tt0018143"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0034453",
+        "fields": {
+            "primaryName": "Jos\u00e9 Argelagu\u00e9s",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0009039",
+                "tt0000941",
+                "tt0009955"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0034454",
+        "fields": {
+            "primaryName": "Juan Argelagu\u00e9s",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0010536",
+                "tt0001756",
+                "tt0004704",
+                "tt0003822"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0034548",
+        "fields": {
+            "primaryName": "Juan Arguelagues",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0001756"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0036298",
+        "fields": {
+            "primaryName": "Carlos Arniches",
+            "birthYear": "1866",
+            "deathYear": "1943",
+            "primaryProfession": [
+                "writer",
+                "soundtrack"
+            ],
+            "knownForTitles": [
+                "tt0034479",
+                "tt0234550",
+                "tt0268501",
+                "tt0004481"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0037414",
+        "fields": {
+            "primaryName": "Alberto Arroyo",
+            "birthYear": "1894",
+            "deathYear": null,
+            "primaryProfession": [
+                "cinematographer",
+                "editor",
+                "camera_department"
+            ],
+            "knownForTitles": [
+                "tt0009230",
+                "tt0010100",
+                "tt0011331",
+                "tt0019629"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0037789",
+        "fields": {
+            "primaryName": "Julia Arthur",
+            "birthYear": "1868",
+            "deathYear": "1950",
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0008954",
+                "tt0007817",
+                "tt0353535",
+                "tt0000643"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0049370",
+        "fields": {
+            "primaryName": "V\u00edctor Balaguer",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "writer",
+                "archive_footage"
+            ],
+            "knownForTitles": [
+                "tt0001184",
+                "tt0040297"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0051304",
+        "fields": {
+            "primaryName": "Honor\u00e9 de Balzac",
+            "birthYear": "1799",
+            "deathYear": "1850",
+            "primaryProfession": [
+                "writer",
+                "music_department",
+                "archive_footage"
+            ],
+            "knownForTitles": [
+                "tt0123913",
+                "tt0012068",
+                "tt0434182",
+                "tt0164006"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0051911",
+        "fields": {
+            "primaryName": "Herman Bang",
+            "birthYear": "1857",
+            "deathYear": "1912",
+            "primaryProfession": [
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0015136",
+                "tt0018907",
+                "tt0001614",
+                "tt0007522"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0054884",
+        "fields": {
+            "primaryName": "Florence Barker",
+            "birthYear": "1891",
+            "deathYear": "1913",
+            "primaryProfession": [
+                "actress",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0000826",
+                "tt0001207",
+                "tt0001236",
+                "tt0229668"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0063086",
+        "fields": {
+            "primaryName": "Blanche Bayliss",
+            "birthYear": "1878",
+            "deathYear": "1951",
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0000009"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0063412",
+        "fields": {
+            "primaryName": "Ram\u00f3n de Ba\u00f1os",
+            "birthYear": "1890",
+            "deathYear": "1980",
+            "primaryProfession": [
+                "director",
+                "cinematographer",
+                "special_effects"
+            ],
+            "knownForTitles": [
+                "tt0175951",
+                "tt0001532",
+                "tt0014345",
+                "tt0016906"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0063413",
+        "fields": {
+            "primaryName": "Ricardo de Ba\u00f1os",
+            "birthYear": "1884",
+            "deathYear": "1939",
+            "primaryProfession": [
+                "director",
+                "cinematographer",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0002886",
+                "tt0004406",
+                "tt0024495",
+                "tt0000941"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0064953",
+        "fields": {
+            "primaryName": "Philip Bech",
+            "birthYear": "1869",
+            "deathYear": "1928",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0008100",
+                "tt0001196",
+                "tt0428042",
+                "tt0126675"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0076800",
+        "fields": {
+            "primaryName": "Sarah Bernhardt",
+            "birthYear": "1844",
+            "deathYear": "1923",
+            "primaryProfession": [
+                "actress",
+                "writer",
+                "miscellaneous"
+            ],
+            "knownForTitles": [
+                "tt0001175",
+                "tt0200269",
+                "tt0008359",
+                "tt0202209"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0085066",
+        "fields": {
+            "primaryName": "Aage Bj\u00f8rnbak",
+            "birthYear": "1875",
+            "deathYear": "1913",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0001440",
+                "tt0001115",
+                "tt0127579",
+                "tt0001116"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0085156",
+        "fields": {
+            "primaryName": "Alexander Black",
+            "birthYear": "1859",
+            "deathYear": "1940",
+            "primaryProfession": [
+                "director",
+                "writer",
+                "cinematographer"
+            ],
+            "knownForTitles": [
+                "tt0000009"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0085865",
+        "fields": {
+            "primaryName": "J. Stuart Blackton",
+            "birthYear": "1875",
+            "deathYear": "1941",
+            "primaryProfession": [
+                "director",
+                "producer",
+                "miscellaneous"
+            ],
+            "knownForTitles": [
+                "tt0013182",
+                "tt0010481",
+                "tt0008153",
+                "tt0010054"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0088881",
+        "fields": {
+            "primaryName": "August Blom",
+            "birthYear": "1869",
+            "deathYear": "1947",
+            "primaryProfession": [
+                "director",
+                "actor",
+                "producer"
+            ],
+            "knownForTitles": [
+                "tt0128813",
+                "tt0121456",
+                "tt2345521",
+                "tt2356476"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0091767",
+        "fields": {
+            "primaryName": "Francis Boggs",
+            "birthYear": "1870",
+            "deathYear": "1911",
+            "primaryProfession": [
+                "director",
+                "writer",
+                "producer"
+            ],
+            "knownForTitles": [
+                "tt0361473",
+                "tt0361398",
+                "tt0361870",
+                "tt0000679"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0092809",
+        "fields": {
+            "primaryName": "Rolf Boldrewood",
+            "birthYear": "1826",
+            "deathYear": "1915",
+            "primaryProfession": [
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt32879833",
+                "tt0050904",
+                "tt0000615",
+                "tt0001531"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0095809",
+        "fields": {
+            "primaryName": "Sydney Booth",
+            "birthYear": "1873",
+            "deathYear": "1937",
+            "primaryProfession": [
+                "actor",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0001498",
+                "tt0164933",
+                "tt0001900",
+                "tt0001926"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0099901",
+        "fields": {
+            "primaryName": "G\u00e9rard Bourgeois",
+            "birthYear": "1874",
+            "deathYear": "1944",
+            "primaryProfession": [
+                "director",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0015393",
+                "tt0201608",
+                "tt0201617",
+                "tt0198415"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0103755",
+        "fields": {
+            "primaryName": "William A. Brady",
+            "birthYear": "1863",
+            "deathYear": "1950",
+            "primaryProfession": [
+                "miscellaneous",
+                "producer",
+                "director"
+            ],
+            "knownForTitles": [
+                "tt0195880",
+                "tt0009655",
+                "tt0007694",
+                "tt0011841"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0104856",
+        "fields": {
+            "primaryName": "Aage Brandt",
+            "birthYear": "1889",
+            "deathYear": "1970",
+            "primaryProfession": [
+                "actor",
+                "director",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0127039",
+                "tt0127029",
+                "tt18989830",
+                "tt2358410"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0105501",
+        "fields": {
+            "primaryName": "Eduardo Braz\u00e3o",
+            "birthYear": "1851",
+            "deathYear": "1925",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0001370",
+                "tt0015252",
+                "tt0016774",
+                "tt0014328"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0108345",
+        "fields": {
+            "primaryName": "Grigore Brezeanu",
+            "birthYear": "1892",
+            "deathYear": "1919",
+            "primaryProfession": [
+                "director",
+                "writer",
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0001475",
+                "tt0172597",
+                "tt0172209",
+                "tt0172593"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0118272",
+        "fields": {
+            "primaryName": "Jos\u00e9 Buchs",
+            "birthYear": "1896",
+            "deathYear": "1973",
+            "primaryProfession": [
+                "director",
+                "writer",
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0016834",
+                "tt0017771",
+                "tt0014848",
+                "tt0040139"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0119164",
+        "fields": {
+            "primaryName": "Edith Buemann",
+            "birthYear": "1879",
+            "deathYear": "1968",
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt2421298",
+                "tt2421546",
+                "tt2421432",
+                "tt2189300"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0122665",
+        "fields": {
+            "primaryName": "Frank Burns",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0000679",
+                "tt0233821",
+                "tt0438647"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0130633",
+        "fields": {
+            "primaryName": "Andr\u00e9 Calmettes",
+            "birthYear": "1861",
+            "deathYear": "1942",
+            "primaryProfession": [
+                "director",
+                "actor",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0001175",
+                "tt3096726",
+                "tt0237838",
+                "tt0002461"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0135052",
+        "fields": {
+            "primaryName": "Albert Capellani",
+            "birthYear": "1874",
+            "deathYear": "1931",
+            "primaryProfession": [
+                "director",
+                "writer",
+                "producer"
+            ],
+            "knownForTitles": [
+                "tt0142721",
+                "tt0011831",
+                "tt0007878",
+                "tt0007963"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0135053",
+        "fields": {
+            "primaryName": "Paul Capellani",
+            "birthYear": "1877",
+            "deathYear": "1960",
+            "primaryProfession": [
+                "actor",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0141634",
+                "tt0006456",
+                "tt0005049",
+                "tt0172720"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0135493",
+        "fields": {
+            "primaryName": "Dante Cappelli",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor",
+                "director"
+            ],
+            "knownForTitles": [
+                "tt0001112",
+                "tt0160116",
+                "tt0923008",
+                "tt0130684"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0136241",
+        "fields": {
+            "primaryName": "Adela Carbon\u00e9",
+            "birthYear": "1890",
+            "deathYear": "1960",
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0050116",
+                "tt0050224",
+                "tt0043375",
+                "tt0051449"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0138771",
+        "fields": {
+            "primaryName": "Augustus Carney",
+            "birthYear": "1870",
+            "deathYear": "1920",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0002005",
+                "tt0203552",
+                "tt0002004",
+                "tt0002006"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0140054",
+        "fields": {
+            "primaryName": "Joaqu\u00edn Carrasco",
+            "birthYear": "1881",
+            "deathYear": "1956",
+            "primaryProfession": [
+                "actor",
+                "make_up_department",
+                "archive_footage"
+            ],
+            "knownForTitles": [
+                "tt0017105",
+                "tt0038625",
+                "tt0033004",
+                "tt0036960"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0141150",
+        "fields": {
+            "primaryName": "Michel Carr\u00e9",
+            "birthYear": "1865",
+            "deathYear": "1945",
+            "primaryProfession": [
+                "director",
+                "writer",
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0000591",
+                "tt0433554",
+                "tt0431913",
+                "tt0433594"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0143332",
+        "fields": {
+            "primaryName": "Maria Caserini",
+            "birthYear": null,
+            "deathYear": "1969",
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0188942",
+                "tt0183433",
+                "tt0216566",
+                "tt0000609"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0143333",
+        "fields": {
+            "primaryName": "Mario Caserini",
+            "birthYear": "1874",
+            "deathYear": "1920",
+            "primaryProfession": [
+                "director",
+                "actor",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0003489",
+                "tt0008947",
+                "tt0123246",
+                "tt0000609"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0143865",
+        "fields": {
+            "primaryName": "Karen Caspersen",
+            "birthYear": "1890",
+            "deathYear": "1941",
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0005529",
+                "tt0123152",
+                "tt0123032",
+                "tt0123135"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0143899",
+        "fields": {
+            "primaryName": "Godfrey Cass",
+            "birthYear": "1866",
+            "deathYear": "1951",
+            "primaryProfession": [
+                "actor",
+                "producer",
+                "archive_footage"
+            ],
+            "knownForTitles": [
+                "tt0000574",
+                "tt0354203",
+                "tt0319661",
+                "tt32991371"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0148859",
+        "fields": {
+            "primaryName": "Miguel de Cervantes y Saavedra",
+            "birthYear": "1547",
+            "deathYear": "1616",
+            "primaryProfession": [
+                "writer",
+                "archive_footage"
+            ],
+            "knownForTitles": [
+                "tt6151214",
+                "tt0023956",
+                "tt0204285",
+                "tt0000675"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0154988",
+        "fields": {
+            "primaryName": "Jeanne Cheirel",
+            "birthYear": "1869",
+            "deathYear": "1934",
+            "primaryProfession": [
+                "actress",
+                "soundtrack",
+                "archive_footage"
+            ],
+            "knownForTitles": [
+                "tt0200268",
+                "tt0195200",
+                "tt0198762",
+                "tt0195355"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0159015",
+        "fields": {
+            "primaryName": "Segundo de Chom\u00f3n",
+            "birthYear": "1871",
+            "deathYear": "1929",
+            "primaryProfession": [
+                "director",
+                "cinematographer",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0001366",
+                "tt0881394",
+                "tt0001364",
+                "tt0001113"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0159725",
+        "fields": {
+            "primaryName": "Benjamin Christensen",
+            "birthYear": "1879",
+            "deathYear": "1959",
+            "primaryProfession": [
+                "director",
+                "writer",
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0005529",
+                "tt0020004",
+                "tt0013257",
+                "tt0016783"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0160233",
+        "fields": {
+            "primaryName": "Tilley Christiansen",
+            "birthYear": "1874",
+            "deathYear": "1955",
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt2436410",
+                "tt1980182",
+                "tt0212828",
+                "tt0001614"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0163519",
+        "fields": {
+            "primaryName": "Miss Clare",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0001604"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0164888",
+        "fields": {
+            "primaryName": "Marcus Clarke",
+            "birthYear": "1846",
+            "deathYear": "1881",
+            "primaryProfession": [
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0017899",
+                "tt0001731",
+                "tt0203505",
+                "tt0083957"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0166433",
+        "fields": {
+            "primaryName": "Rita Clermont",
+            "birthYear": "1894",
+            "deathYear": "1969",
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0825338",
+                "tt0486921",
+                "tt0361528",
+                "tt0338194"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0166547",
+        "fields": {
+            "primaryName": "Carl Clewing",
+            "birthYear": "1884",
+            "deathYear": "1954",
+            "primaryProfession": [
+                "actor",
+                "writer",
+                "composer"
+            ],
+            "knownForTitles": [
+                "tt0003390",
+                "tt0251579",
+                "tt0052546",
+                "tt0011742"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0167461",
+        "fields": {
+            "primaryName": "Julien Cl\u00e9ment",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor",
+                "director"
+            ],
+            "knownForTitles": [
+                "tt0930790",
+                "tt0451427",
+                "tt0197596",
+                "tt0169859"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0167619",
+        "fields": {
+            "primaryName": "Byers Coates",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "cinematographer"
+            ],
+            "knownForTitles": [
+                "tt0000615",
+                "tt0203505"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0169878",
+        "fields": {
+            "primaryName": "Alfred Cohn",
+            "birthYear": "1867",
+            "deathYear": "1932",
+            "primaryProfession": [
+                "director",
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt2363052",
+                "tt2363060",
+                "tt0002642",
+                "tt2363482"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0170118",
+        "fields": {
+            "primaryName": "Bella Cola",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actress",
+                "archive_footage"
+            ],
+            "knownForTitles": [
+                "tt0000574"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0179163",
+        "fields": {
+            "primaryName": "James J. Corbett",
+            "birthYear": "1866",
+            "deathYear": "1933",
+            "primaryProfession": [
+                "actor",
+                "writer",
+                "archive_footage"
+            ],
+            "knownForTitles": [
+                "tt0003730",
+                "tt0003116",
+                "tt0034778",
+                "tt0020949"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0179557",
+        "fields": {
+            "primaryName": "Mia Cordes",
+            "birthYear": "1882",
+            "deathYear": "1955",
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0203518",
+                "tt0203989",
+                "tt0486701",
+                "tt0486726"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0181848",
+        "fields": {
+            "primaryName": "Tom Cosgrove",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor",
+                "executive"
+            ],
+            "knownForTitles": [
+                "tt0003287",
+                "tt0001604",
+                "tt0012219"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0182052",
+        "fields": {
+            "primaryName": "Manuel Maria da Costa Veiga",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "director",
+                "cinematographer",
+                "executive"
+            ],
+            "knownForTitles": [
+                "tt0001382",
+                "tt0009193",
+                "tt0000375",
+                "tt0000354"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0182214",
+        "fields": {
+            "primaryName": "J\u00falio Costa",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "director",
+                "producer"
+            ],
+            "knownForTitles": [
+                "tt0001370",
+                "tt0001148",
+                "tt5039296"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0183823",
+        "fields": {
+            "primaryName": "William Courtenay",
+            "birthYear": "1875",
+            "deathYear": "1933",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0000009",
+                "tt0020355",
+                "tt0021535",
+                "tt0020403"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0185426",
+        "fields": {
+            "primaryName": "Ignacio Coyne",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "cinematographer",
+                "director",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0000959",
+                "tt0001007",
+                "tt0001069",
+                "tt0001081"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0187697",
+        "fields": {
+            "primaryName": "Sam Crewes",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "assistant_director",
+                "actor",
+                "art_department"
+            ],
+            "knownForTitles": [
+                "tt33008356",
+                "tt0329022",
+                "tt0334938",
+                "tt0000574"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0194088",
+        "fields": {
+            "primaryName": "Narciso Cuy\u00e0s",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "director",
+                "cinematographer",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0176294",
+                "tt0001201",
+                "tt0175889",
+                "tt0000675"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0198972",
+        "fields": {
+            "primaryName": "Lily Dampier",
+            "birthYear": "1868",
+            "deathYear": "1915",
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0001731",
+                "tt0001531",
+                "tt0001530"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0205986",
+        "fields": {
+            "primaryName": "J. Searle Dawley",
+            "birthYear": "1877",
+            "deathYear": "1949",
+            "primaryProfession": [
+                "director",
+                "writer",
+                "cinematographer"
+            ],
+            "knownForTitles": [
+                "tt0009549",
+                "tt0008726",
+                "tt0008563",
+                "tt0010565"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0207207",
+        "fields": {
+            "primaryName": "Suzanne de Baere",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0001812"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0207512",
+        "fields": {
+            "primaryName": "Victor De Bon",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "cinematographer",
+                "director"
+            ],
+            "knownForTitles": [
+                "tt0001475",
+                "tt0174750",
+                "tt0172597",
+                "tt0175252"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0209738",
+        "fields": {
+            "primaryName": "Giuseppe de Liguoro",
+            "birthYear": "1869",
+            "deathYear": "1944",
+            "primaryProfession": [
+                "director",
+                "actor",
+                "assistant_director"
+            ],
+            "knownForTitles": [
+                "tt0002130",
+                "tt0189846",
+                "tt0001377",
+                "tt0189842"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0213989",
+        "fields": {
+            "primaryName": "Pierre Decourcelle",
+            "birthYear": "1856",
+            "deathYear": "1926",
+            "primaryProfession": [
+                "writer",
+                "producer",
+                "art_director"
+            ],
+            "knownForTitles": [
+                "tt0477584",
+                "tt0442591",
+                "tt0494486",
+                "tt0196013"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0215752",
+        "fields": {
+            "primaryName": "Antonio del Pozo",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0000502"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0216066",
+        "fields": {
+            "primaryName": "Charles Delac",
+            "birthYear": "1885",
+            "deathYear": "1965",
+            "primaryProfession": [
+                "producer",
+                "production_manager",
+                "archive_footage"
+            ],
+            "knownForTitles": [
+                "tt0024710",
+                "tt0020656",
+                "tt0001175",
+                "tt0133940"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0216941",
+        "fields": {
+            "primaryName": "Fernando Delgado",
+            "birthYear": "1891",
+            "deathYear": "1950",
+            "primaryProfession": [
+                "writer",
+                "director",
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0033625",
+                "tt0019618",
+                "tt0018078",
+                "tt0019612"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0218175",
+        "fields": {
+            "primaryName": "Marie Demartiniov\u00e1-Hradcansk\u00e1",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0001341"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0218953",
+        "fields": {
+            "primaryName": "Rhoda Dendron",
+            "birthYear": "1884",
+            "deathYear": "1970",
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0000615"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0221142",
+        "fields": {
+            "primaryName": "Henri Desfontaines",
+            "birthYear": "1876",
+            "deathYear": "1931",
+            "primaryProfession": [
+                "director",
+                "actor",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0333165",
+                "tt0194392",
+                "tt0193916",
+                "tt0193812"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0227602",
+        "fields": {
+            "primaryName": "Robert Dinesen",
+            "birthYear": "1874",
+            "deathYear": "1972",
+            "primaryProfession": [
+                "director",
+                "actor",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0001614",
+                "tt0015107",
+                "tt0129092",
+                "tt0473730"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0239263",
+        "fields": {
+            "primaryName": "Margarita Dubertrand",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0006559",
+                "tt0006585",
+                "tt0007859",
+                "tt0009547"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0240418",
+        "fields": {
+            "primaryName": "William Duff",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor",
+                "cinematographer"
+            ],
+            "knownForTitles": [
+                "tt0000615"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0241414",
+        "fields": {
+            "primaryName": "Alexandre Dumas fils",
+            "birthYear": "1824",
+            "deathYear": "1895",
+            "primaryProfession": [
+                "writer",
+                "soundtrack"
+            ],
+            "knownForTitles": [
+                "tt0046456",
+                "tt0012027",
+                "tt12037138",
+                "tt0082230"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0243918",
+        "fields": {
+            "primaryName": "Jos\u00e9 Durany",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0191412",
+                "tt0004571",
+                "tt0011544",
+                "tt2901784"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0251436",
+        "fields": {
+            "primaryName": "N. Eiberg",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0001049",
+                "tt0000794"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0252720",
+        "fields": {
+            "primaryName": "El Mochuelo",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0000502"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0254852",
+        "fields": {
+            "primaryName": "George D. Ellis",
+            "birthYear": "1898",
+            "deathYear": "1973",
+            "primaryProfession": [
+                "sound_department",
+                "actor",
+                "miscellaneous"
+            ],
+            "knownForTitles": [
+                "tt0029277",
+                "tt0022259",
+                "tt0021649",
+                "tt0024421"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0260771",
+        "fields": {
+            "primaryName": "Juan Espantale\u00f3n",
+            "birthYear": "1885",
+            "deathYear": "1966",
+            "primaryProfession": [
+                "actor",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0039330",
+                "tt0035732",
+                "tt0227847",
+                "tt0036714"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0264569",
+        "fields": {
+            "primaryName": "Kate Fabian",
+            "birthYear": "1870",
+            "deathYear": "1929",
+            "primaryProfession": [
+                "actress",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0123135",
+                "tt2436368",
+                "tt0163578",
+                "tt0125327"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0271140",
+        "fields": {
+            "primaryName": "Ellen Feldmann",
+            "birthYear": "1888",
+            "deathYear": "1969",
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0123079",
+                "tt2435930",
+                "tt0039674",
+                "tt2362040"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0272340",
+        "fields": {
+            "primaryName": "Helen Fergus",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0010680",
+                "tt0001604",
+                "tt0003287"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0280615",
+        "fields": {
+            "primaryName": "Bob Fitzsimmons",
+            "birthYear": "1863",
+            "deathYear": "1917",
+            "primaryProfession": [
+                "archive_footage"
+            ],
+            "knownForTitles": [
+                "tt0232530",
+                "tt0000147",
+                "tt0230692",
+                "tt4655120"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0280746",
+        "fields": {
+            "primaryName": "Solborg Fjelds\u00f8e Rasmussen",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt2436410",
+                "tt2436498",
+                "tt0001049",
+                "tt3126502"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0280765",
+        "fields": {
+            "primaryName": "Peter Fjelstrup",
+            "birthYear": "1866",
+            "deathYear": "1920",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0005529",
+                "tt2413056",
+                "tt0126375",
+                "tt0008121"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0282348",
+        "fields": {
+            "primaryName": "Hugo Flink",
+            "birthYear": "1879",
+            "deathYear": "1947",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0322123",
+                "tt0362444",
+                "tt0460246",
+                "tt2841836"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0286189",
+        "fields": {
+            "primaryName": "Louis Forestier",
+            "birthYear": "1892",
+            "deathYear": "1954",
+            "primaryProfession": [
+                "cinematographer"
+            ],
+            "knownForTitles": [
+                "tt0020357",
+                "tt0252989",
+                "tt12110316",
+                "tt0018607"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0288616",
+        "fields": {
+            "primaryName": "Frank Powell",
+            "birthYear": "1877",
+            "deathYear": null,
+            "primaryProfession": [
+                "director",
+                "actor",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0008334",
+                "tt0005930",
+                "tt0006741",
+                "tt0005363"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0294022",
+        "fields": {
+            "primaryName": "Elvira Fremont",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0000941"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0294276",
+        "fields": {
+            "primaryName": "Theo Frenkel",
+            "birthYear": "1871",
+            "deathYear": "1956",
+            "primaryProfession": [
+                "director",
+                "actor",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0014170",
+                "tt0010076",
+                "tt0011219",
+                "tt0010946"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0295457",
+        "fields": {
+            "primaryName": "Berta Friedrichov\u00e1",
+            "birthYear": "1892",
+            "deathYear": "1975",
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0001341",
+                "tt9402364"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0296344",
+        "fields": {
+            "primaryName": "Maria Fromet",
+            "birthYear": "1902",
+            "deathYear": "1967",
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt1829708",
+                "tt0434193",
+                "tt0003159",
+                "tt0001790"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0298614",
+        "fields": {
+            "primaryName": "Tronier Funder",
+            "birthYear": "1884",
+            "deathYear": "1964",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt2367008",
+                "tt0340177",
+                "tt0893596",
+                "tt2361204"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0299757",
+        "fields": {
+            "primaryName": "Aage F\u00f8nss",
+            "birthYear": "1887",
+            "deathYear": "1976",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt2413056",
+                "tt0127579",
+                "tt2811374",
+                "tt0308106"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0300487",
+        "fields": {
+            "primaryName": "Urban Gad",
+            "birthYear": "1879",
+            "deathYear": "1947",
+            "primaryProfession": [
+                "director",
+                "writer",
+                "cinematographer"
+            ],
+            "knownForTitles": [
+                "tt0001914",
+                "tt0132155",
+                "tt0132266",
+                "tt0132536"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0304098",
+        "fields": {
+            "primaryName": "Abel Gance",
+            "birthYear": "1889",
+            "deathYear": "1981",
+            "primaryProfession": [
+                "writer",
+                "director",
+                "editor"
+            ],
+            "knownForTitles": [
+                "tt0014417",
+                "tt0025027",
+                "tt0018192",
+                "tt0066855"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0306604",
+        "fields": {
+            "primaryName": "Aage Garde",
+            "birthYear": "1876",
+            "deathYear": "1955",
+            "primaryProfession": [
+                "actor",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0271815",
+                "tt0001115",
+                "tt1980182",
+                "tt2421298"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0312146",
+        "fields": {
+            "primaryName": "Hortensia Gelabert",
+            "birthYear": "1896",
+            "deathYear": "1958",
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0010414",
+                "tt0006585",
+                "tt0006559",
+                "tt0014240"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0317210",
+        "fields": {
+            "primaryName": "W.A. Gibson",
+            "birthYear": "1870",
+            "deathYear": "1929",
+            "primaryProfession": [
+                "producer"
+            ],
+            "knownForTitles": [
+                "tt0000574"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0324690",
+        "fields": {
+            "primaryName": "Nikolay Gogol",
+            "birthYear": "1809",
+            "deathYear": "1852",
+            "primaryProfession": [
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt20231520",
+                "tt15286322",
+                "tt6730698",
+                "tt0041509"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0328322",
+        "fields": {
+            "primaryName": "Manuel Gonz\u00e1lez",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0015719",
+                "tt0006420",
+                "tt0009547",
+                "tt0006585"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0330280",
+        "fields": {
+            "primaryName": "James Gordon",
+            "birthYear": "1871",
+            "deathYear": "1941",
+            "primaryProfession": [
+                "actor",
+                "director",
+                "assistant_director"
+            ],
+            "knownForTitles": [
+                "tt0011387",
+                "tt0014977",
+                "tt0003442",
+                "tt0011672"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0332028",
+        "fields": {
+            "primaryName": "Ellen Gottschalch",
+            "birthYear": "1894",
+            "deathYear": "1981",
+            "primaryProfession": [
+                "actress",
+                "writer",
+                "soundtrack"
+            ],
+            "knownForTitles": [
+                "tt0039882",
+                "tt0043833",
+                "tt0038357",
+                "tt0130839"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0332182",
+        "fields": {
+            "primaryName": "Henri Gouget",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0311681",
+                "tt3752844",
+                "tt0400955",
+                "tt0451296"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0336414",
+        "fields": {
+            "primaryName": "Gabriel de Gravone",
+            "birthYear": "1887",
+            "deathYear": "1972",
+            "primaryProfession": [
+                "actor",
+                "director",
+                "sound_department"
+            ],
+            "knownForTitles": [
+                "tt0200072",
+                "tt0142088",
+                "tt0443311",
+                "tt0003159"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0346387",
+        "fields": {
+            "primaryName": "Arthur Guest",
+            "birthYear": "1857",
+            "deathYear": "1937",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0000615"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0363465",
+        "fields": {
+            "primaryName": "Jean Chameroy",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0001175",
+                "tt0476807",
+                "tt0483189",
+                "tt0002020"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0366742",
+        "fields": {
+            "primaryName": "Pat Hartigan",
+            "birthYear": "1881",
+            "deathYear": "1951",
+            "primaryProfession": [
+                "director",
+                "actor",
+                "producer"
+            ],
+            "knownForTitles": [
+                "tt0010949",
+                "tt2489106",
+                "tt1308969",
+                "tt1320429"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0372992",
+        "fields": {
+            "primaryName": "Wilhelm Hechy",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "cinematographer"
+            ],
+            "knownForTitles": [
+                "tt0007307",
+                "tt0001711",
+                "tt1058769",
+                "tt0787252"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0375839",
+        "fields": {
+            "primaryName": "Gunnar Helsengreen",
+            "birthYear": "1880",
+            "deathYear": "1939",
+            "primaryProfession": [
+                "actor",
+                "director",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0001277",
+                "tt2397548",
+                "tt0462420",
+                "tt0001440"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0376556",
+        "fields": {
+            "primaryName": "Mr. Henderson",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0001604"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0378408",
+        "fields": {
+            "primaryName": "Cecil M. Hepworth",
+            "birthYear": "1873",
+            "deathYear": "1953",
+            "primaryProfession": [
+                "producer",
+                "cinematographer",
+                "director"
+            ],
+            "knownForTitles": [
+                "tt0000420",
+                "tt0000309",
+                "tt0000498",
+                "tt0006129"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0381005",
+        "fields": {
+            "primaryName": "Aage Hertel",
+            "birthYear": "1873",
+            "deathYear": "1944",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0001240",
+                "tt2411968",
+                "tt2412162",
+                "tt2411856"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0383329",
+        "fields": {
+            "primaryName": "Arthur Higgins",
+            "birthYear": "1891",
+            "deathYear": "1963",
+            "primaryProfession": [
+                "cinematographer",
+                "director",
+                "camera_department"
+            ],
+            "knownForTitles": [
+                "tt0258849",
+                "tt0020877",
+                "tt0258393",
+                "tt0356508"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0383382",
+        "fields": {
+            "primaryName": "Ernest Higgins",
+            "birthYear": "1871",
+            "deathYear": "1945",
+            "primaryProfession": [
+                "cinematographer",
+                "director",
+                "producer"
+            ],
+            "knownForTitles": [
+                "tt0347434",
+                "tt0001731",
+                "tt0001911",
+                "tt0002361"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0386036",
+        "fields": {
+            "primaryName": "Carl Hintz",
+            "birthYear": "1869",
+            "deathYear": "1926",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt2436368",
+                "tt2426100",
+                "tt2442724",
+                "tt0125131"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0388674",
+        "fields": {
+            "primaryName": "Franz Hofer",
+            "birthYear": "1882",
+            "deathYear": "1945",
+            "primaryProfession": [
+                "director",
+                "writer",
+                "producer"
+            ],
+            "knownForTitles": [
+                "tt0203858",
+                "tt0203324",
+                "tt0203333",
+                "tt0203517"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0401076",
+        "fields": {
+            "primaryName": "Victor Hugo",
+            "birthYear": "1802",
+            "deathYear": "1885",
+            "primaryProfession": [
+                "writer",
+                "art_department",
+                "music_department"
+            ],
+            "knownForTitles": [
+                "tt1707386",
+                "tt0119683",
+                "tt1084958",
+                "tt0116583"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0401744",
+        "fields": {
+            "primaryName": "Fergus Hume",
+            "birthYear": "1859",
+            "deathYear": "1932",
+            "primaryProfession": [
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0359721",
+                "tt0005796",
+                "tt0012526",
+                "tt0009714"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0401967",
+        "fields": {
+            "primaryName": "William Humphrey",
+            "birthYear": "1863",
+            "deathYear": "1942",
+            "primaryProfession": [
+                "actor",
+                "director",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0009891",
+                "tt0223437",
+                "tt0167013",
+                "tt0010997"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0406094",
+        "fields": {
+            "primaryName": "Edgar H\u00f8yer",
+            "birthYear": "1859",
+            "deathYear": "1942",
+            "primaryProfession": [
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0011000",
+                "tt0001603",
+                "tt0125535"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0408436",
+        "fields": {
+            "primaryName": "Thomas H. Ince",
+            "birthYear": "1880",
+            "deathYear": "1924",
+            "primaryProfession": [
+                "producer",
+                "miscellaneous",
+                "director"
+            ],
+            "knownForTitles": [
+                "tt0005193",
+                "tt0005166",
+                "tt0005149",
+                "tt0002669"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0421945",
+        "fields": {
+            "primaryName": "Rigmor Jerichau",
+            "birthYear": "1887",
+            "deathYear": "1960",
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0001240",
+                "tt0130997",
+                "tt1165269",
+                "tt2408874"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0423762",
+        "fields": {
+            "primaryName": "Adam Johansen",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "cinematographer"
+            ],
+            "knownForTitles": [
+                "tt2220094",
+                "tt0130011",
+                "tt0130063",
+                "tt0001892"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0425854",
+        "fields": {
+            "primaryName": "Millard Johnson",
+            "birthYear": "1871",
+            "deathYear": null,
+            "primaryProfession": [
+                "producer",
+                "writer",
+                "cinematographer"
+            ],
+            "knownForTitles": [
+                "tt0000574",
+                "tt32879833",
+                "tt0336770",
+                "tt0322792"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0448682",
+        "fields": {
+            "primaryName": "Charles Kent",
+            "birthYear": "1852",
+            "deathYear": "1923",
+            "primaryProfession": [
+                "actor",
+                "director",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0002031",
+                "tt0328057",
+                "tt0327479",
+                "tt0338498"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0468351",
+        "fields": {
+            "primaryName": "Bohumil Kov\u00e1r",
+            "birthYear": "1865",
+            "deathYear": "1931",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0019850",
+                "tt1124134",
+                "tt0001341",
+                "tt0020006"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0470307",
+        "fields": {
+            "primaryName": "Henry Krauss",
+            "birthYear": "1866",
+            "deathYear": "1935",
+            "primaryProfession": [
+                "actor",
+                "director",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0194471",
+                "tt1829708",
+                "tt0001790",
+                "tt0205952"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0471787",
+        "fields": {
+            "primaryName": "Vladimir Krivtsov",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "director",
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0191226",
+                "tt0001338",
+                "tt0202158"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0471818",
+        "fields": {
+            "primaryName": "Jan Kr\u00edzeneck\u00fd",
+            "birthYear": "1868",
+            "deathYear": "1921",
+            "primaryProfession": [
+                "director",
+                "cinematographer",
+                "producer"
+            ],
+            "knownForTitles": [
+                "tt32331875",
+                "tt0000190",
+                "tt0000174",
+                "tt8742662"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0473134",
+        "fields": {
+            "primaryName": "Hanns Kr\u00e4ly",
+            "birthYear": "1884",
+            "deathYear": "1950",
+            "primaryProfession": [
+                "writer",
+                "actor",
+                "script_department"
+            ],
+            "knownForTitles": [
+                "tt0019257",
+                "tt0029347",
+                "tt0020081",
+                "tt0026142"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0478475",
+        "fields": {
+            "primaryName": "Ella La Cour",
+            "birthYear": "1854",
+            "deathYear": "1935",
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0001240",
+                "tt0126925",
+                "tt2421402",
+                "tt2421520"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0478718",
+        "fields": {
+            "primaryName": "Amelia de la Mata",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0000941"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0483943",
+        "fields": {
+            "primaryName": "Fritz Lamprecht",
+            "birthYear": "1883",
+            "deathYear": "1941",
+            "primaryProfession": [
+                "producer",
+                "director",
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0324230",
+                "tt0278364",
+                "tt0278991",
+                "tt0283310"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0486791",
+        "fields": {
+            "primaryName": "Lili Lani",
+            "birthYear": "1905",
+            "deathYear": "1996",
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0013059",
+                "tt0124813",
+                "tt0124125",
+                "tt0023481"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0488932",
+        "fields": {
+            "primaryName": "Viggo Larsen",
+            "birthYear": "1880",
+            "deathYear": "1957",
+            "primaryProfession": [
+                "director",
+                "actor",
+                "producer"
+            ],
+            "knownForTitles": [
+                "tt0002157",
+                "tt0000883",
+                "tt0460248",
+                "tt0000583"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0491503",
+        "fields": {
+            "primaryName": "Lau Lauritzen",
+            "birthYear": "1878",
+            "deathYear": "1938",
+            "primaryProfession": [
+                "director",
+                "writer",
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0125131",
+                "tt0125391",
+                "tt0016806",
+                "tt0123899"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0511080",
+        "fields": {
+            "primaryName": "Schi\u00f8ler Linck",
+            "birthYear": "1878",
+            "deathYear": "1952",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0253282",
+                "tt0124813",
+                "tt0018428",
+                "tt0000862"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0511143",
+        "fields": {
+            "primaryName": "W.J. Lincoln",
+            "birthYear": "1870",
+            "deathYear": "1917",
+            "primaryProfession": [
+                "director",
+                "writer",
+                "producer"
+            ],
+            "knownForTitles": [
+                "tt0344130",
+                "tt33008356",
+                "tt0193331",
+                "tt32991371"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0511155",
+        "fields": {
+            "primaryName": "Alfred Lind",
+            "birthYear": "1879",
+            "deathYear": "1959",
+            "primaryProfession": [
+                "director",
+                "cinematographer",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0822042",
+                "tt2432584",
+                "tt0002186",
+                "tt0444752"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0511223",
+        "fields": {
+            "primaryName": "Kai Lind",
+            "birthYear": "1887",
+            "deathYear": "1962",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0001603",
+                "tt2432854",
+                "tt2397694",
+                "tt2411842"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0512539",
+        "fields": {
+            "primaryName": "Viggo Lindstr\u00f8m",
+            "birthYear": "1858",
+            "deathYear": "1926",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt2426272",
+                "tt0011000",
+                "tt0001603",
+                "tt0130258"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0519315",
+        "fields": {
+            "primaryName": "Raymond Longford",
+            "birthYear": "1878",
+            "deathYear": "1959",
+            "primaryProfession": [
+                "director",
+                "writer",
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0007100",
+                "tt0010680",
+                "tt0258525",
+                "tt0353454"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0526190",
+        "fields": {
+            "primaryName": "J\u00f8rgen Lund",
+            "birthYear": "1873",
+            "deathYear": "1941",
+            "primaryProfession": [
+                "actor",
+                "production_designer",
+                "director"
+            ],
+            "knownForTitles": [
+                "tt0001195",
+                "tt2409490",
+                "tt0124925",
+                "tt0005529"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0528022",
+        "fields": {
+            "primaryName": "Lottie Lyell",
+            "birthYear": "1890",
+            "deathYear": "1925",
+            "primaryProfession": [
+                "actress",
+                "writer",
+                "art_department"
+            ],
+            "knownForTitles": [
+                "tt0010680",
+                "tt0011226",
+                "tt0007100",
+                "tt0258525"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0533615",
+        "fields": {
+            "primaryName": "Arthur Mackley",
+            "birthYear": "1865",
+            "deathYear": "1926",
+            "primaryProfession": [
+                "actor",
+                "director",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0376808",
+                "tt0378929",
+                "tt0391909",
+                "tt0492257"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0533958",
+        "fields": {
+            "primaryName": "Charles MacMahon",
+            "birthYear": "1861",
+            "deathYear": "1917",
+            "primaryProfession": [
+                "director",
+                "writer",
+                "producer"
+            ],
+            "knownForTitles": [
+                "tt0000615",
+                "tt0203505"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0535229",
+        "fields": {
+            "primaryName": "Mads Anton Madsen",
+            "birthYear": "1880",
+            "deathYear": "1968",
+            "primaryProfession": [
+                "cinematographer"
+            ],
+            "knownForTitles": [
+                "tt0130065",
+                "tt0253282",
+                "tt0127054",
+                "tt0468342"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0539045",
+        "fields": {
+            "primaryName": "Ellen Malberg",
+            "birthYear": "1907",
+            "deathYear": "1983",
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt1813256",
+                "tt0001889",
+                "tt0031932",
+                "tt0122491"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0539049",
+        "fields": {
+            "primaryName": "Peter Malberg",
+            "birthYear": "1887",
+            "deathYear": "1965",
+            "primaryProfession": [
+                "actor",
+                "soundtrack"
+            ],
+            "knownForTitles": [
+                "tt2413056",
+                "tt0050542",
+                "tt0123032",
+                "tt0123542"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0542903",
+        "fields": {
+            "primaryName": "Nathaniel D. Mann",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "composer"
+            ],
+            "knownForTitles": [
+                "tt0000679"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0550220",
+        "fields": {
+            "primaryName": "Alberto Marro",
+            "birthYear": "1878",
+            "deathYear": "1956",
+            "primaryProfession": [
+                "director",
+                "writer",
+                "cinematographer"
+            ],
+            "knownForTitles": [
+                "tt0003874",
+                "tt0004406",
+                "tt0004720",
+                "tt0004653"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0561109",
+        "fields": {
+            "primaryName": "Cl\u00e9ment Maurice",
+            "birthYear": "1853",
+            "deathYear": "1933",
+            "primaryProfession": [
+                "producer",
+                "director",
+                "cinematographer"
+            ],
+            "knownForTitles": [
+                "tt0488574",
+                "tt0395983",
+                "tt0000306",
+                "tt6134006"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0580197",
+        "fields": {
+            "primaryName": "Louis Mercanton",
+            "birthYear": "1879",
+            "deathYear": "1932",
+            "primaryProfession": [
+                "director",
+                "writer",
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0339465",
+                "tt0007418",
+                "tt0020546",
+                "tt0004761"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0581353",
+        "fields": {
+            "primaryName": "George Merriman",
+            "birthYear": "1879",
+            "deathYear": "1934",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0000615"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0582268",
+        "fields": {
+            "primaryName": "Oskar Messter",
+            "birthYear": "1866",
+            "deathYear": "1943",
+            "primaryProfession": [
+                "producer",
+                "director",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt2271557",
+                "tt0007534",
+                "tt0455216",
+                "tt0842932"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0583207",
+        "fields": {
+            "primaryName": "Johannes Meyer",
+            "birthYear": "1884",
+            "deathYear": "1972",
+            "primaryProfession": [
+                "actor",
+                "director",
+                "producer"
+            ],
+            "knownForTitles": [
+                "tt0015768",
+                "tt0014486",
+                "tt0125521",
+                "tt0126989"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0585785",
+        "fields": {
+            "primaryName": "Hans Mierendorff",
+            "birthYear": "1882",
+            "deathYear": "1955",
+            "primaryProfession": [
+                "actor",
+                "producer",
+                "director"
+            ],
+            "knownForTitles": [
+                "tt0009122",
+                "tt0338053",
+                "tt7395394",
+                "tt0812355"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0592965",
+        "fields": {
+            "primaryName": "Mistinguett",
+            "birthYear": "1875",
+            "deathYear": "1956",
+            "primaryProfession": [
+                "actress",
+                "writer",
+                "soundtrack"
+            ],
+            "knownForTitles": [
+                "tt0450188",
+                "tt0321656",
+                "tt0028184",
+                "tt0422758"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0597995",
+        "fields": {
+            "primaryName": "William V. Mong",
+            "birthYear": "1875",
+            "deathYear": "1940",
+            "primaryProfession": [
+                "actor",
+                "writer",
+                "director"
+            ],
+            "knownForTitles": [
+                "tt0006681",
+                "tt0168581",
+                "tt0001746",
+                "tt0013824"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0605942",
+        "fields": {
+            "primaryName": "Camille de Morlhon",
+            "birthYear": "1869",
+            "deathYear": "1952",
+            "primaryProfession": [
+                "director",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt12588158",
+                "tt0339681",
+                "tt0333609",
+                "tt0431026"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0607349",
+        "fields": {
+            "primaryName": "Will Morrison",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0000679"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0609814",
+        "fields": {
+            "primaryName": "Jean Mounet-Sully",
+            "birthYear": "1841",
+            "deathYear": "1916",
+            "primaryProfession": [
+                "actor",
+                "archive_footage"
+            ],
+            "knownForTitles": [
+                "tt0000886",
+                "tt0492275",
+                "tt0449855",
+                "tt1732180"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0611814",
+        "fields": {
+            "primaryName": "Otto Mulhauser",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "director",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0001756",
+                "tt0002625"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0617041",
+        "fields": {
+            "primaryName": "\u00c9mile Mylo",
+            "birthYear": "1889",
+            "deathYear": "1952",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0003159",
+                "tt0001790",
+                "tt0016065",
+                "tt0434193"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0620586",
+        "fields": {
+            "primaryName": "Louis Nalpas",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "producer",
+                "art_director",
+                "production_manager"
+            ],
+            "knownForTitles": [
+                "tt0240049",
+                "tt0020182",
+                "tt0001175",
+                "tt0333165"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0624446",
+        "fields": {
+            "primaryName": "Fernanda Negri Pouget",
+            "birthYear": "1889",
+            "deathYear": "1955",
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0003489",
+                "tt0000630",
+                "tt0184691",
+                "tt0167871"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0627140",
+        "fields": {
+            "primaryName": "Victor Neumann",
+            "birthYear": "1852",
+            "deathYear": "1924",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0346642",
+                "tt2426262",
+                "tt2347322",
+                "tt2347768"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0627274",
+        "fields": {
+            "primaryName": "Alwin Neu\u00df",
+            "birthYear": "1879",
+            "deathYear": "1935",
+            "primaryProfession": [
+                "actor",
+                "director",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt1096967",
+                "tt0007403",
+                "tt6957248",
+                "tt0441568"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0627427",
+        "fields": {
+            "primaryName": "Augustus Neville",
+            "birthYear": "1879",
+            "deathYear": "1963",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0001911",
+                "tt0353881",
+                "tt0001731",
+                "tt0002361"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0630641",
+        "fields": {
+            "primaryName": "Marie Niedermann",
+            "birthYear": "1880",
+            "deathYear": "1967",
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0127579",
+                "tt0033327",
+                "tt0124201",
+                "tt2397548"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0631025",
+        "fields": {
+            "primaryName": "Agda Nilsson",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0482956",
+                "tt0482979",
+                "tt0483167",
+                "tt0009062"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0639631",
+        "fields": {
+            "primaryName": "John B. O'Brien",
+            "birthYear": "1884",
+            "deathYear": "1936",
+            "primaryProfession": [
+                "actor",
+                "director",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt4481158",
+                "tt0006583",
+                "tt0131387",
+                "tt0007667"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0644728",
+        "fields": {
+            "primaryName": "Charles Ogle",
+            "birthYear": "1865",
+            "deathYear": "1940",
+            "primaryProfession": [
+                "actor",
+                "make_up_department",
+                "archive_footage"
+            ],
+            "knownForTitles": [
+                "tt0008499",
+                "tt0011785",
+                "tt0012828",
+                "tt0013669"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0647719",
+        "fields": {
+            "primaryName": "Lauritz Olsen",
+            "birthYear": "1872",
+            "deathYear": "1955",
+            "primaryProfession": [
+                "actor",
+                "director",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0000583",
+                "tt2343712",
+                "tt2411058",
+                "tt2330466"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0657268",
+        "fields": {
+            "primaryName": "Miguel de Palacios",
+            "birthYear": "1863",
+            "deathYear": "1920",
+            "primaryProfession": [
+                "writer",
+                "soundtrack"
+            ],
+            "knownForTitles": [
+                "tt0088954",
+                "tt0031112",
+                "tt0208070",
+                "tt0051246"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0666972",
+        "fields": {
+            "primaryName": "Robert W. Paul",
+            "birthYear": "1869",
+            "deathYear": "1943",
+            "primaryProfession": [
+                "producer",
+                "cinematographer",
+                "director"
+            ],
+            "knownForTitles": [
+                "tt0001141",
+                "tt0000188",
+                "tt0000170",
+                "tt0250634"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0672885",
+        "fields": {
+            "primaryName": "Lacey Percival",
+            "birthYear": null,
+            "deathYear": "1969",
+            "primaryProfession": [
+                "cinematographer",
+                "director",
+                "producer"
+            ],
+            "knownForTitles": [
+                "tt0344025",
+                "tt0203451",
+                "tt0343934",
+                "tt0343789"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0675239",
+        "fields": {
+            "primaryName": "Orrie Perry",
+            "birthYear": "1888",
+            "deathYear": "1950",
+            "primaryProfession": [
+                "cinematographer",
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0000574",
+                "tt0000335",
+                "tt0336770",
+                "tt33008356"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0675260",
+        "fields": {
+            "primaryName": "Reg Perry",
+            "birthYear": "1890",
+            "deathYear": "1981",
+            "primaryProfession": [
+                "actor",
+                "cinematographer"
+            ],
+            "knownForTitles": [
+                "tt0000574",
+                "tt0000335",
+                "tt0006062",
+                "tt11106998"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0675388",
+        "fields": {
+            "primaryName": "Guillermo Perr\u00edn",
+            "birthYear": "1875",
+            "deathYear": "1923",
+            "primaryProfession": [
+                "writer",
+                "soundtrack"
+            ],
+            "knownForTitles": [
+                "tt0088954",
+                "tt0031112",
+                "tt0208070",
+                "tt0000502"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0676645",
+        "fields": {
+            "primaryName": "Madison C. Peters",
+            "birthYear": "1858",
+            "deathYear": "1918",
+            "primaryProfession": [
+                "writer",
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0001030",
+                "tt0143205",
+                "tt0001285",
+                "tt0143996"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0676978",
+        "fields": {
+            "primaryName": "Zanny Petersen",
+            "birthYear": "1892",
+            "deathYear": "1976",
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0008100",
+                "tt2400826",
+                "tt2397548",
+                "tt2346656"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0679170",
+        "fields": {
+            "primaryName": "Gerardo Pe\u00f1a",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor",
+                "writer",
+                "director"
+            ],
+            "knownForTitles": [
+                "tt0004270",
+                "tt0906616",
+                "tt0193160",
+                "tt0004231"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0681933",
+        "fields": {
+            "primaryName": "Mary Pickford",
+            "birthYear": "1892",
+            "deathYear": "1979",
+            "primaryProfession": [
+                "actress",
+                "producer",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0019788",
+                "tt0024539",
+                "tt0016028",
+                "tt0014854"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0688764",
+        "fields": {
+            "primaryName": "Juana Pola",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0001756"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0690702",
+        "fields": {
+            "primaryName": "Clara Pontoppidan",
+            "birthYear": "1883",
+            "deathYear": "1975",
+            "primaryProfession": [
+                "actress",
+                "soundtrack",
+                "archive_footage"
+            ],
+            "knownForTitles": [
+                "tt0125823",
+                "tt0013059",
+                "tt0445504",
+                "tt2398654"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0693055",
+        "fields": {
+            "primaryName": "Victor Potel",
+            "birthYear": "1889",
+            "deathYear": "1947",
+            "primaryProfession": [
+                "actor",
+                "writer",
+                "director"
+            ],
+            "knownForTitles": [
+                "tt0037077",
+                "tt0034240",
+                "tt0022028",
+                "tt0039349"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0693516",
+        "fields": {
+            "primaryName": "Henri Pouctal",
+            "birthYear": "1860",
+            "deathYear": "1922",
+            "primaryProfession": [
+                "director",
+                "actor",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0001175",
+                "tt0263473",
+                "tt0006233",
+                "tt0156436"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0697944",
+        "fields": {
+            "primaryName": "Herbert Prior",
+            "birthYear": "1867",
+            "deathYear": "1954",
+            "primaryProfession": [
+                "actor",
+                "writer",
+                "director"
+            ],
+            "knownForTitles": [
+                "tt0017555",
+                "tt0002905",
+                "tt0008029",
+                "tt0003279"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0698839",
+        "fields": {
+            "primaryName": "Yakov Protazanov",
+            "birthYear": "1881",
+            "deathYear": "1945",
+            "primaryProfession": [
+                "director",
+                "writer",
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0194666",
+                "tt0028622",
+                "tt0021268",
+                "tt0002987"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0699637",
+        "fields": {
+            "primaryName": "Valdemar Psilander",
+            "birthYear": "1884",
+            "deathYear": "1917",
+            "primaryProfession": [
+                "actor",
+                "music_department",
+                "producer"
+            ],
+            "knownForTitles": [
+                "tt0126888",
+                "tt0001185",
+                "tt0174712",
+                "tt0361094"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0699807",
+        "fields": {
+            "primaryName": "Dolores Puchol",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0001184",
+                "tt0004892"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0707778",
+        "fields": {
+            "primaryName": "Louis Ralph",
+            "birthYear": "1884",
+            "deathYear": "1952",
+            "primaryProfession": [
+                "actor",
+                "director",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0446127",
+                "tt1644579",
+                "tt0019415",
+                "tt0022793"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0714557",
+        "fields": {
+            "primaryName": "Enoch J. Rector",
+            "birthYear": "1863",
+            "deathYear": "1957",
+            "primaryProfession": [
+                "director",
+                "cinematographer",
+                "editor"
+            ],
+            "knownForTitles": [
+                "tt0381108",
+                "tt0000147",
+                "tt0229676"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0719681",
+        "fields": {
+            "primaryName": "Elsie Rennie",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0001604",
+                "tt0001911"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0719778",
+        "fields": {
+            "primaryName": "Delphine Renot",
+            "birthYear": "1855",
+            "deathYear": "1927",
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0001790",
+                "tt0208980",
+                "tt0208938",
+                "tt0209338"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0723663",
+        "fields": {
+            "primaryName": "Johannes Rich",
+            "birthYear": "1879",
+            "deathYear": "1966",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0001440",
+                "tt0127579",
+                "tt2811374",
+                "tt0001196"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0723801",
+        "fields": {
+            "primaryName": "Frida Richard",
+            "birthYear": "1873",
+            "deathYear": "1946",
+            "primaryProfession": [
+                "actress",
+                "archive_footage"
+            ],
+            "knownForTitles": [
+                "tt0457948",
+                "tt0015175",
+                "tt0132207",
+                "tt0011833"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0727484",
+        "fields": {
+            "primaryName": "Svend Rindom",
+            "birthYear": "1884",
+            "deathYear": "1960",
+            "primaryProfession": [
+                "writer",
+                "actor",
+                "director"
+            ],
+            "knownForTitles": [
+                "tt0001889",
+                "tt0038587",
+                "tt0125941",
+                "tt0123993"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0728158",
+        "fields": {
+            "primaryName": "Antonio Riquelme",
+            "birthYear": "1894",
+            "deathYear": "1968",
+            "primaryProfession": [
+                "actor",
+                "archive_footage"
+            ],
+            "knownForTitles": [
+                "tt0045933",
+                "tt0041803",
+                "tt0037387",
+                "tt0047402"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0735618",
+        "fields": {
+            "primaryName": "Cecilio Rodr\u00edguez de la Vega",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0211291",
+                "tt0015533",
+                "tt0000674",
+                "tt0001184"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0736379",
+        "fields": {
+            "primaryName": "Jenny Roelsgaard",
+            "birthYear": "1878",
+            "deathYear": "1936",
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0127579",
+                "tt2362040",
+                "tt0129057",
+                "tt0130844"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0736464",
+        "fields": {
+            "primaryName": "Julio Roesset",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "writer",
+                "director"
+            ],
+            "knownForTitles": [
+                "tt0006559",
+                "tt0005714",
+                "tt0007203",
+                "tt0008654"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0738202",
+        "fields": {
+            "primaryName": "Alfred Rolfe",
+            "birthYear": "1862",
+            "deathYear": "1943",
+            "primaryProfession": [
+                "director",
+                "actor",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0001531",
+                "tt0349241",
+                "tt0356838",
+                "tt0354220"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0739190",
+        "fields": {
+            "primaryName": "Alberto Romea",
+            "birthYear": "1882",
+            "deathYear": "1960",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0029867",
+                "tt0029897",
+                "tt0035601",
+                "tt0031424"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0740463",
+        "fields": {
+            "primaryName": "Thorkild Roose",
+            "birthYear": "1874",
+            "deathYear": "1961",
+            "primaryProfession": [
+                "actor",
+                "director"
+            ],
+            "knownForTitles": [
+                "tt2276724",
+                "tt2356276",
+                "tt0126925",
+                "tt0129274"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0742120",
+        "fields": {
+            "primaryName": "Carl Rosenbaum",
+            "birthYear": "1885",
+            "deathYear": "1961",
+            "primaryProfession": [
+                "actor",
+                "writer",
+                "director"
+            ],
+            "knownForTitles": [
+                "tt0001614",
+                "tt0001889",
+                "tt0444607",
+                "tt2421290"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0742127",
+        "fields": {
+            "primaryName": "Einar Rosenbaum",
+            "birthYear": "1881",
+            "deathYear": "1965",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt2220094",
+                "tt2373670",
+                "tt1813256",
+                "tt2421946"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0742633",
+        "fields": {
+            "primaryName": "Palle Rosenkrantz",
+            "birthYear": "1867",
+            "deathYear": "1941",
+            "primaryProfession": [
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0129976",
+                "tt2390224",
+                "tt2439894",
+                "tt2187976"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0756543",
+        "fields": {
+            "primaryName": "Georges Saillard",
+            "birthYear": "1877",
+            "deathYear": "1967",
+            "primaryProfession": [
+                "actor",
+                "miscellaneous"
+            ],
+            "knownForTitles": [
+                "tt0304546",
+                "tt0016112",
+                "tt0029802",
+                "tt0028438"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0762935",
+        "fields": {
+            "primaryName": "Emilie Sannom",
+            "birthYear": "1886",
+            "deathYear": "1931",
+            "primaryProfession": [
+                "actress",
+                "writer",
+                "archive_footage"
+            ],
+            "knownForTitles": [
+                "tt0001240",
+                "tt0496707",
+                "tt0496808",
+                "tt0496809"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0764002",
+        "fields": {
+            "primaryName": "Carlos Santos",
+            "birthYear": "1871",
+            "deathYear": "1949",
+            "primaryProfession": [
+                "actor",
+                "director"
+            ],
+            "knownForTitles": [
+                "tt0001370",
+                "tt0010641"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0764534",
+        "fields": {
+            "primaryName": "Vicente Sapeda",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0001756"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0767685",
+        "fields": {
+            "primaryName": "Harry Saville",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0001604",
+                "tt0002361"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0768187",
+        "fields": {
+            "primaryName": "Laura Sawyer",
+            "birthYear": "1885",
+            "deathYear": "1970",
+            "primaryProfession": [
+                "actress",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0008726",
+                "tt0004834",
+                "tt0005176",
+                "tt0003289"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0772788",
+        "fields": {
+            "primaryName": "Aage Schmidt",
+            "birthYear": "1885",
+            "deathYear": "1949",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0127579",
+                "tt0005529",
+                "tt0031361",
+                "tt2397548"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0772797",
+        "fields": {
+            "primaryName": "Albrecht Schmidt",
+            "birthYear": "1870",
+            "deathYear": "1945",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0124269",
+                "tt0126940",
+                "tt2363482",
+                "tt2426412"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0775422",
+        "fields": {
+            "primaryName": "Joseph Schrode",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0000679",
+                "tt0384816"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0782422",
+        "fields": {
+            "primaryName": "Ferry Seidl",
+            "birthYear": "1881",
+            "deathYear": "1939",
+            "primaryProfession": [
+                "actor",
+                "director"
+            ],
+            "knownForTitles": [
+                "tt0250247",
+                "tt0300688",
+                "tt0298204",
+                "tt1084710"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0814379",
+        "fields": {
+            "primaryName": "Petrine Sonne",
+            "birthYear": "1870",
+            "deathYear": "1946",
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0000596",
+                "tt0033327",
+                "tt0123993",
+                "tt0024864"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0814668",
+        "fields": {
+            "primaryName": "Sophocles",
+            "birthYear": "496",
+            "deathYear": "406",
+            "primaryProfession": [
+                "writer",
+                "music_department"
+            ],
+            "knownForTitles": [
+                "tt15220036",
+                "tt0055375",
+                "tt0103707",
+                "tt2010891"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0826298",
+        "fields": {
+            "primaryName": "Francisco Stella",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "director"
+            ],
+            "knownForTitles": [
+                "tt0001059"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0832458",
+        "fields": {
+            "primaryName": "Edith Storey",
+            "birthYear": "1892",
+            "deathYear": "1967",
+            "primaryProfession": [
+                "actress",
+                "archive_footage"
+            ],
+            "knownForTitles": [
+                "tt0003771",
+                "tt0159059",
+                "tt0003973",
+                "tt0006631"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0834325",
+        "fields": {
+            "primaryName": "Oscar Stribolt",
+            "birthYear": "1873",
+            "deathYear": "1927",
+            "primaryProfession": [
+                "actor",
+                "director"
+            ],
+            "knownForTitles": [
+                "tt2316210",
+                "tt2310354",
+                "tt2330502",
+                "tt0212828"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0836316",
+        "fields": {
+            "primaryName": "Rollin S. Sturgeon",
+            "birthYear": "1877",
+            "deathYear": "1961",
+            "primaryProfession": [
+                "director",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0005073",
+                "tt0006728",
+                "tt0009612",
+                "tt0366237"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0836458",
+        "fields": {
+            "primaryName": "Lucia Sturza-Bulandra",
+            "birthYear": "1873",
+            "deathYear": "1961",
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0001475",
+                "tt0035373"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0846879",
+        "fields": {
+            "primaryName": "Charles Tait",
+            "birthYear": "1868",
+            "deathYear": "1933",
+            "primaryProfession": [
+                "director",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0000574"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0846887",
+        "fields": {
+            "primaryName": "Elizabeth Tait",
+            "birthYear": "1879",
+            "deathYear": null,
+            "primaryProfession": [
+                "actress",
+                "archive_footage"
+            ],
+            "knownForTitles": [
+                "tt0000574"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0846894",
+        "fields": {
+            "primaryName": "John Tait",
+            "birthYear": "1871",
+            "deathYear": "1955",
+            "primaryProfession": [
+                "producer",
+                "actor",
+                "archive_footage"
+            ],
+            "knownForTitles": [
+                "tt32879833",
+                "tt0336770",
+                "tt0000574",
+                "tt0322792"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0846911",
+        "fields": {
+            "primaryName": "Nevin Tait",
+            "birthYear": "1876",
+            "deathYear": "1961",
+            "primaryProfession": [
+                "producer"
+            ],
+            "knownForTitles": [
+                "tt0000574",
+                "tt32879833",
+                "tt0336770",
+                "tt0322792"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0848232",
+        "fields": {
+            "primaryName": "Norma Talmadge",
+            "birthYear": "1894",
+            "deathYear": "1957",
+            "primaryProfession": [
+                "actress",
+                "producer",
+                "soundtrack"
+            ],
+            "knownForTitles": [
+                "tt0017731",
+                "tt0017029",
+                "tt0015312",
+                "tt0019589"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0848502",
+        "fields": {
+            "primaryName": "Manuel Tamayo y Baus",
+            "birthYear": "1829",
+            "deathYear": "1898",
+            "primaryProfession": [
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0038493",
+                "tt0270480",
+                "tt0000941",
+                "tt0040544"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0854414",
+        "fields": {
+            "primaryName": "Lou Tellegen",
+            "birthYear": "1881",
+            "deathYear": "1934",
+            "primaryProfession": [
+                "actor",
+                "director",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0232225",
+                "tt0011873",
+                "tt0001175",
+                "tt0017393"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0865178",
+        "fields": {
+            "primaryName": "Harry Todd",
+            "birthYear": "1863",
+            "deathYear": "1935",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0022470",
+                "tt0025599",
+                "tt0014527",
+                "tt0001801"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0870831",
+        "fields": {
+            "primaryName": "Antonio de Padua Tramullas",
+            "birthYear": "1880",
+            "deathYear": "1961",
+            "primaryProfession": [
+                "cinematographer",
+                "director",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0005948",
+                "tt0003010",
+                "tt0006677",
+                "tt0012108"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0877783",
+        "fields": {
+            "primaryName": "Otis Turner",
+            "birthYear": "1862",
+            "deathYear": "1918",
+            "primaryProfession": [
+                "director",
+                "writer",
+                "producer"
+            ],
+            "knownForTitles": [
+                "tt0004974",
+                "tt0000679",
+                "tt0007602",
+                "tt0007737"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0878467",
+        "fields": {
+            "primaryName": "Emanuel Tvede",
+            "birthYear": "1868",
+            "deathYear": "1910",
+            "primaryProfession": [
+                "actor",
+                "director"
+            ],
+            "knownForTitles": [
+                "tt0000862",
+                "tt0000794"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0888988",
+        "fields": {
+            "primaryName": "Lance Vane",
+            "birthYear": "1884",
+            "deathYear": "1942",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0000615",
+                "tt0134787",
+                "tt0135045"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0893346",
+        "fields": {
+            "primaryName": "Maria Ventura",
+            "birthYear": "1890",
+            "deathYear": "1954",
+            "primaryProfession": [
+                "actress",
+                "miscellaneous"
+            ],
+            "knownForTitles": [
+                "tt0003159",
+                "tt1829708",
+                "tt0001790",
+                "tt0434447"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0896618",
+        "fields": {
+            "primaryName": "Amelia Vieira",
+            "birthYear": "1850",
+            "deathYear": "1928",
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0001370",
+                "tt33445645"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0898785",
+        "fields": {
+            "primaryName": "Walter Vincent",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0001604",
+                "tt0343789",
+                "tt0001911",
+                "tt0344493"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0906197",
+        "fields": {
+            "primaryName": "Georges Wague",
+            "birthYear": "1874",
+            "deathYear": "1965",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0434033",
+                "tt0007518",
+                "tt0764742",
+                "tt0432622"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0909492",
+        "fields": {
+            "primaryName": "Stanley Walpole",
+            "birthYear": "1881",
+            "deathYear": "1967",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0192471",
+                "tt0348799",
+                "tt0348620",
+                "tt1204090"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0923594",
+        "fields": {
+            "primaryName": "Leopold Wharton",
+            "birthYear": "1870",
+            "deathYear": "1927",
+            "primaryProfession": [
+                "director",
+                "producer",
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0006409",
+                "tt0174714",
+                "tt0008411",
+                "tt0003897"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0923603",
+        "fields": {
+            "primaryName": "Theodore Wharton",
+            "birthYear": "1875",
+            "deathYear": "1931",
+            "primaryProfession": [
+                "director",
+                "producer",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0006409",
+                "tt0157468",
+                "tt0175920",
+                "tt0006943"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0927374",
+        "fields": {
+            "primaryName": "Emma Wiehe",
+            "birthYear": "1864",
+            "deathYear": "1949",
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0130839",
+                "tt2430338",
+                "tt0001603",
+                "tt2239788"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0927690",
+        "fields": {
+            "primaryName": "Carlo Wieth",
+            "birthYear": "1885",
+            "deathYear": "1943",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0003306",
+                "tt2367008",
+                "tt2365890",
+                "tt0129929"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0933446",
+        "fields": {
+            "primaryName": "George E. Wilson",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0000679"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0934709",
+        "fields": {
+            "primaryName": "Agis Winding",
+            "birthYear": "1875",
+            "deathYear": "1943",
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0123201",
+                "tt0125941",
+                "tt0130839",
+                "tt0127264"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0941542",
+        "fields": {
+            "primaryName": "Jean Worms",
+            "birthYear": "1884",
+            "deathYear": "1943",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0032384",
+                "tt0010437",
+                "tt0488759",
+                "tt0154111"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0949565",
+        "fields": {
+            "primaryName": "George Young",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "director",
+                "actor",
+                "soundtrack"
+            ],
+            "knownForTitles": [
+                "tt0351786",
+                "tt0336943",
+                "tt0336487",
+                "tt0324243"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0952034",
+        "fields": {
+            "primaryName": "Otto Zahr\u00e1dka",
+            "birthYear": "1882",
+            "deathYear": "1939",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0165843",
+                "tt0168906",
+                "tt1230293",
+                "tt0169359"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0957652",
+        "fields": {
+            "primaryName": "\u00c9mile Zola",
+            "birthYear": "1840",
+            "deathYear": "1902",
+            "primaryProfession": [
+                "writer",
+                "archive_footage"
+            ],
+            "knownForTitles": [
+                "tt0762073",
+                "tt0017196",
+                "tt3186394",
+                "tt3359620"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0957985",
+        "fields": {
+            "primaryName": "Pedro Zorrilla",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0009547",
+                "tt0006585",
+                "tt0007859",
+                "tt0006420"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm0959921",
+        "fields": {
+            "primaryName": "Henri \u00c9ti\u00e9vant",
+            "birthYear": "1870",
+            "deathYear": "1953",
+            "primaryProfession": [
+                "actor",
+                "director"
+            ],
+            "knownForTitles": [
+                "tt0135652",
+                "tt0141634",
+                "tt0431026",
+                "tt0455885"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm1003261",
+        "fields": {
+            "primaryName": "Alexander Christian",
+            "birthYear": "1881",
+            "deathYear": "1937",
+            "primaryProfession": [
+                "director",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt2360268",
+                "tt2361096",
+                "tt2361156",
+                "tt2361204"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm1010943",
+        "fields": {
+            "primaryName": "Alfred Dampier",
+            "birthYear": "1843",
+            "deathYear": "1908",
+            "primaryProfession": [
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0001531"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm1014629",
+        "fields": {
+            "primaryName": "Charles Cozens Spencer",
+            "birthYear": "1874",
+            "deathYear": "1930",
+            "primaryProfession": [
+                "producer",
+                "director"
+            ],
+            "knownForTitles": [
+                "tt0001604",
+                "tt0286089",
+                "tt0134787",
+                "tt0001531"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm1024681",
+        "fields": {
+            "primaryName": "Josef Kricensk\u00fd",
+            "birthYear": "1874",
+            "deathYear": "1930",
+            "primaryProfession": [
+                "director",
+                "actor",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0001341"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm1071095",
+        "fields": {
+            "primaryName": "Nicholas Rowe",
+            "birthYear": "1674",
+            "deathYear": "1718",
+            "primaryProfession": [
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0001712",
+                "tt0005562",
+                "tt1258729",
+                "tt2006140"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm11468708",
+        "fields": {
+            "primaryName": "Enrique Garc\u00eda \u00c1lvarez",
+            "birthYear": "1873",
+            "deathYear": "1931",
+            "primaryProfession": [
+                "writer",
+                "soundtrack"
+            ],
+            "knownForTitles": [
+                "tt0032188",
+                "tt0001364",
+                "tt0033330",
+                "tt0016752"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm1206972",
+        "fields": {
+            "primaryName": "B.S. Ingemann",
+            "birthYear": "1789",
+            "deathYear": "1862",
+            "primaryProfession": [
+                "music_department",
+                "writer",
+                "soundtrack"
+            ],
+            "knownForTitles": [
+                "tt2106476",
+                "tt0001440",
+                "tt0031416",
+                "tt4088268"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm1255834",
+        "fields": {
+            "primaryName": "Mar\u00eda Vega",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0001756"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm1266292",
+        "fields": {
+            "primaryName": "Oscar Langkilde",
+            "birthYear": "1874",
+            "deathYear": "1953",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0001240",
+                "tt2398688",
+                "tt1171629",
+                "tt0001471"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm1266474",
+        "fields": {
+            "primaryName": "Axel Mattsson",
+            "birthYear": "1887",
+            "deathYear": "1937",
+            "primaryProfession": [
+                "actor",
+                "stunts"
+            ],
+            "knownForTitles": [
+                "tt1813256",
+                "tt2371630",
+                "tt2361290",
+                "tt0822005"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm1267013",
+        "fields": {
+            "primaryName": "Suzanne Seylor",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0001175",
+                "tt0005566",
+                "tt0202209",
+                "tt0000306"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm1267460",
+        "fields": {
+            "primaryName": "Einar Zangenberg",
+            "birthYear": "1882",
+            "deathYear": "1918",
+            "primaryProfession": [
+                "actor",
+                "director",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt11109958",
+                "tt0783742",
+                "tt2421546",
+                "tt2588436"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm1270556",
+        "fields": {
+            "primaryName": "Eugenie Werner",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0001630",
+                "tt1640415",
+                "tt1325602",
+                "tt1653836"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm12738281",
+        "fields": {
+            "primaryName": "Carr\u00e9",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0001614"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm1309758",
+        "fields": {
+            "primaryName": "Chauncey Depew",
+            "birthYear": "1834",
+            "deathYear": "1928",
+            "primaryProfession": [
+                "actor",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0000009",
+                "tt0490842",
+                "tt1076833",
+                "tt4484306"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm1323543",
+        "fields": {
+            "primaryName": "Christiane Mandelys",
+            "birthYear": "1873",
+            "deathYear": "1957",
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0000591",
+                "tt0757218",
+                "tt0757216",
+                "tt0208313"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm1356916",
+        "fields": {
+            "primaryName": "Grete Weixler",
+            "birthYear": "1900",
+            "deathYear": "1921",
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0471781",
+                "tt4644986",
+                "tt0154741",
+                "tt10914468"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm1360020",
+        "fields": {
+            "primaryName": "Theodore Kremer",
+            "birthYear": "1871",
+            "deathYear": "1923",
+            "primaryProfession": [
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0001604",
+                "tt0233707"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm1372000",
+        "fields": {
+            "primaryName": "Willis Secord",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0441230",
+                "tt0398903",
+                "tt0401662",
+                "tt0797925"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm13903996",
+        "fields": {
+            "primaryName": "Walter Dalgleish",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0001803"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm1431224",
+        "fields": {
+            "primaryName": "Nicholas Brierley",
+            "birthYear": "1880",
+            "deathYear": "1935",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0000574"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm1434907",
+        "fields": {
+            "primaryName": "Ragnhild Christensen",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt1813256",
+                "tt0003394",
+                "tt0001440",
+                "tt2437218"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm1458590",
+        "fields": {
+            "primaryName": "Elna From",
+            "birthYear": "1869",
+            "deathYear": "1943",
+            "primaryProfession": [
+                "actress",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt2421546",
+                "tt2421402",
+                "tt2415374",
+                "tt0496707"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm1495634",
+        "fields": {
+            "primaryName": "Frau Karsten",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0001630"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm1532213",
+        "fields": {
+            "primaryName": "Henny Lauritzen",
+            "birthYear": "1871",
+            "deathYear": "1938",
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt2413056",
+                "tt2365192",
+                "tt2361096",
+                "tt2363060"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm1547973",
+        "fields": {
+            "primaryName": "Poul Baastrup",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm1616439",
+        "fields": {
+            "primaryName": "Tony Bulandra",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0173357",
+                "tt0001475",
+                "tt0172355"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm1617025",
+        "fields": {
+            "primaryName": "Constantin Neamtu-Ottonel",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0001475",
+                "tt0173719",
+                "tt0154252"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm16380220",
+        "fields": {
+            "primaryName": "Thomas Walker",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0001731"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm1714653",
+        "fields": {
+            "primaryName": "Aurel Barbelian",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0001475",
+                "tt0172581",
+                "tt0002452"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm1747784",
+        "fields": {
+            "primaryName": "Francisco I. Madero",
+            "birthYear": "1873",
+            "deathYear": "1913",
+            "primaryProfession": [
+                "archive_footage"
+            ],
+            "knownForTitles": [
+                "tt0000879",
+                "tt0387646",
+                "tt0388222",
+                "tt0388476"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm1759558",
+        "fields": {
+            "primaryName": "Gilberte Sergy",
+            "birthYear": null,
+            "deathYear": "1924",
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0000591",
+                "tt1745783",
+                "tt0435273",
+                "tt0433616"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm1761548",
+        "fields": {
+            "primaryName": "Pierre Trimbach",
+            "birthYear": "1889",
+            "deathYear": "1970",
+            "primaryProfession": [
+                "cinematographer"
+            ],
+            "knownForTitles": [
+                "tt0141634",
+                "tt0002898",
+                "tt0477584",
+                "tt1829708"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm1808145",
+        "fields": {
+            "primaryName": "Pitou",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0001175"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm1834127",
+        "fields": {
+            "primaryName": "Maggi Zinn",
+            "birthYear": "1873",
+            "deathYear": "1952",
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0445504",
+                "tt2412934",
+                "tt2366010",
+                "tt0001049"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm1834296",
+        "fields": {
+            "primaryName": "Axel Garde",
+            "birthYear": "1876",
+            "deathYear": "1958",
+            "primaryProfession": [
+                "writer",
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0445504",
+                "tt2335396",
+                "tt0129242",
+                "tt0002646"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm2131092",
+        "fields": {
+            "primaryName": "Gebhard Sch\u00e4tzler-Perasini",
+            "birthYear": null,
+            "deathYear": "1931",
+            "primaryProfession": [
+                "director",
+                "writer"
+            ],
+            "knownForTitles": [
+                "tt0001892",
+                "tt1573806",
+                "tt1573803",
+                "tt1573805"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm2150938",
+        "fields": {
+            "primaryName": "Th.S. S\u00f8rensen",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "cinematographer"
+            ],
+            "knownForTitles": [
+                "tt0001440"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm2256592",
+        "fields": {
+            "primaryName": "John L. Sullivan",
+            "birthYear": "1858",
+            "deathYear": "1918",
+            "primaryProfession": [
+                "archive_footage"
+            ],
+            "knownForTitles": [
+                "tt0000147"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm2325688",
+        "fields": {
+            "primaryName": "Mary Hagen",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0001892",
+                "tt1573909"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm2416993",
+        "fields": {
+            "primaryName": "Anthonin",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0330140",
+                "tt0001790",
+                "tt0172057",
+                "tt0473251"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm2421834",
+        "fields": {
+            "primaryName": "Eric Chapus",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "composer",
+                "soundtrack"
+            ],
+            "knownForTitles": [
+                "tt0217629",
+                "tt0000574",
+                "tt9261290",
+                "tt0883792"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm2542283",
+        "fields": {
+            "primaryName": "Gunnar Rosenbaum",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "music_department",
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0365675",
+                "tt2988700",
+                "tt0001889"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm2681099",
+        "fields": {
+            "primaryName": "Jos\u00e9 Mar\u00eda Pino Su\u00e1rez",
+            "birthYear": "1869",
+            "deathYear": "1913",
+            "primaryProfession": [
+                "\\N"
+            ],
+            "knownForTitles": [
+                "tt0000879",
+                "tt0388222"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm2922906",
+        "fields": {
+            "primaryName": "Paul de Dupont",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0000679"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm2923902",
+        "fields": {
+            "primaryName": "Sam 'Smiling' Jones",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0000679"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm2924347",
+        "fields": {
+            "primaryName": "Bronson Ward Jr.",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0000679"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm2924736",
+        "fields": {
+            "primaryName": "Clarence Nearing",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0000679"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm2924919",
+        "fields": {
+            "primaryName": "Wallace Illington",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0000679"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm3001683",
+        "fields": {
+            "primaryName": "Will Coyne",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0000574"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm3002376",
+        "fields": {
+            "primaryName": "Norman Campbell",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0000574",
+                "tt12579676"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm3002754",
+        "fields": {
+            "primaryName": "Jack Ennis",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0000574"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm3003322",
+        "fields": {
+            "primaryName": "John Forde",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt32879833",
+                "tt0000574"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm3071427",
+        "fields": {
+            "primaryName": "Jim Gerald",
+            "birthYear": "1891",
+            "deathYear": "1971",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0000615",
+                "tt0134787",
+                "tt0048864",
+                "tt0043199"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm4081458",
+        "fields": {
+            "primaryName": "George Siler",
+            "birthYear": "1846",
+            "deathYear": "1908",
+            "primaryProfession": [
+                "\\N"
+            ],
+            "knownForTitles": [
+                "tt0000147"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm4082222",
+        "fields": {
+            "primaryName": "Billy Madden",
+            "birthYear": "1852",
+            "deathYear": "1918",
+            "primaryProfession": [
+                "\\N"
+            ],
+            "knownForTitles": [
+                "tt0000147"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm5188470",
+        "fields": {
+            "primaryName": "Carl Johan Lundkvist",
+            "birthYear": "1875",
+            "deathYear": "1915",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt2414410",
+                "tt2428338",
+                "tt0001049",
+                "tt0000862"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm5190017",
+        "fields": {
+            "primaryName": "Th.S. Hermansen",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "cinematographer"
+            ],
+            "knownForTitles": [
+                "tt2397790",
+                "tt0001277",
+                "tt2311552",
+                "tt2436074"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm5217890",
+        "fields": {
+            "primaryName": "Kaj Rasmussen",
+            "birthYear": "1885",
+            "deathYear": "1954",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt2430772",
+                "tt0001049",
+                "tt2342630",
+                "tt2409466"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm5239860",
+        "fields": {
+            "primaryName": "Ellen Price de Plane",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt2432854",
+                "tt0001603",
+                "tt2438758"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm5239866",
+        "fields": {
+            "primaryName": "Ane Marie Christiansen",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actress"
+            ],
+            "knownForTitles": [
+                "tt0001603"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm5239890",
+        "fields": {
+            "primaryName": "Vilhelm Wiehe",
+            "birthYear": "1858",
+            "deathYear": "1916",
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0001603"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm5289318",
+        "fields": {
+            "primaryName": "O. Poulsen",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0000862"
+            ]
+        }
+    },
+    {
+        "model": "miapp.namebasics",
+        "pk": "nm5289829",
+        "fields": {
+            "primaryName": "Hr. Andreasen",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfession": [
+                "actor"
+            ],
+            "knownForTitles": [
+                "tt0000862"
+            ]
+        }
+    }
+]

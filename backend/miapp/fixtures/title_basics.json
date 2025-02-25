@@ -1,0 +1,1615 @@
+[
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0000009",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Miss Jerry",
+            "originalTitle": "Miss Jerry",
+            "isAdult": "0",
+            "startYear": "1894",
+            "endYear": null,
+            "runtimeMinutes": "45",
+            "genres": [
+                "Romance"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0000147",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "The Corbett-Fitzsimmons Fight",
+            "originalTitle": "The Corbett-Fitzsimmons Fight",
+            "isAdult": "0",
+            "startYear": "1897",
+            "endYear": null,
+            "runtimeMinutes": "100",
+            "genres": [
+                "Documentary",
+                "News",
+                "Sport"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0000502",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Bohemios",
+            "originalTitle": "Bohemios",
+            "isAdult": "0",
+            "startYear": "1905",
+            "endYear": null,
+            "runtimeMinutes": "100",
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0000574",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "The Story of the Kelly Gang",
+            "originalTitle": "The Story of the Kelly Gang",
+            "isAdult": "0",
+            "startYear": "1906",
+            "endYear": null,
+            "runtimeMinutes": "70",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Biography"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0000591",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "The Prodigal Son",
+            "originalTitle": "L'enfant prodigue",
+            "isAdult": "0",
+            "startYear": "1907",
+            "endYear": null,
+            "runtimeMinutes": "90",
+            "genres": [
+                "Drama"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0000615",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Robbery Under Arms",
+            "originalTitle": "Robbery Under Arms",
+            "isAdult": "0",
+            "startYear": "1907",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "Drama"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0000630",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Hamlet",
+            "originalTitle": "Amleto",
+            "isAdult": "0",
+            "startYear": "1908",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "Drama"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0000675",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Don Quijote",
+            "originalTitle": "Don Quijote",
+            "isAdult": "0",
+            "startYear": "1908",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "Drama"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0000679",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "The Fairylogue and Radio-Plays",
+            "originalTitle": "The Fairylogue and Radio-Plays",
+            "isAdult": "0",
+            "startYear": "1908",
+            "endYear": null,
+            "runtimeMinutes": "120",
+            "genres": [
+                "Adventure",
+                "Fantasy"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0000838",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "A Cultura do Cacau",
+            "originalTitle": "A Cultura do Cacau",
+            "isAdult": "0",
+            "startYear": "1909",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0000842",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "De Garraf a Barcelona",
+            "originalTitle": "De Garraf a Barcelona",
+            "isAdult": "0",
+            "startYear": "1909",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0000846",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Un d\u00eda en Xochimilco",
+            "originalTitle": "Un d\u00eda en Xochimilco",
+            "isAdult": "0",
+            "startYear": "1909",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0000850",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Los dos hermanos",
+            "originalTitle": "Los dos hermanos",
+            "isAdult": "0",
+            "startYear": "1909",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0000859",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Fabricaci\u00f3n del corcho en Sant Feliu de Guixols",
+            "originalTitle": "Fabricaci\u00f3n del corcho en Sant Feliu de Guixols",
+            "isAdult": "0",
+            "startYear": "1909",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0000862",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Faldgruben",
+            "originalTitle": "Faldgruben",
+            "isAdult": "0",
+            "startYear": "1909",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0000867",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Fiesta de toros",
+            "originalTitle": "Fiesta de toros",
+            "isAdult": "0",
+            "startYear": "1909",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0000868",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Fiestas de Santa Luc\u00eda - Belenes",
+            "originalTitle": "Fiestas de Santa Luc\u00eda - Belenes",
+            "isAdult": "0",
+            "startYear": "1909",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0000869",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Fiestas en La Garriga",
+            "originalTitle": "Fiestas en La Garriga",
+            "isAdult": "0",
+            "startYear": "1909",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0000879",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Gira pol\u00edtica de Madero y Pino Su\u00e1rez",
+            "originalTitle": "Gira pol\u00edtica de Madero y Pino Su\u00e1rez",
+            "isAdult": "0",
+            "startYear": "1909",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0000886",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Hamlet, Prince of Denmark",
+            "originalTitle": "Hamlet",
+            "isAdult": "0",
+            "startYear": "1910",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "Drama"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0000941",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Locura de amor",
+            "originalTitle": "Locura de amor",
+            "isAdult": "0",
+            "startYear": "1909",
+            "endYear": null,
+            "runtimeMinutes": "45",
+            "genres": [
+                "Drama"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0000947",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "L\u00e6gens offer",
+            "originalTitle": "L\u00e6gens offer",
+            "isAdult": "0",
+            "startYear": "1909",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0000959",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Melilla y el Gurugu",
+            "originalTitle": "Melilla y el Gurugu",
+            "isAdult": "0",
+            "startYear": "1909",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0000984",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Ni\u00f1os en la alameda",
+            "originalTitle": "Ni\u00f1os en la alameda",
+            "isAdult": "0",
+            "startYear": "1909",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001007",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "La primera y segunda casetas",
+            "originalTitle": "La primera y segunda casetas",
+            "isAdult": "0",
+            "startYear": "1909",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001010",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Protecci\u00f3n de un convoy de v\u00edveres en el puente de camellos",
+            "originalTitle": "Protecci\u00f3n de un convoy de v\u00edveres en el puente de camellos",
+            "isAdult": "0",
+            "startYear": "1909",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001028",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Salome Mad",
+            "originalTitle": "Salome Mad",
+            "isAdult": "0",
+            "startYear": "1909",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "Comedy"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001038",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Sherlock Holmes VI",
+            "originalTitle": "Sherlock Holmes VI",
+            "isAdult": "0",
+            "startYear": "1910",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001043",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Smith's Knockabout Theatre",
+            "originalTitle": "Smith's Knockabout Theatre",
+            "isAdult": "0",
+            "startYear": "1909",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001049",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "G\u00f8ngeh\u00f8vdingen",
+            "originalTitle": "G\u00f8ngeh\u00f8vdingen",
+            "isAdult": "0",
+            "startYear": "1909",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "Drama",
+                "War"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001051",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "El sue\u00f1o milagroso",
+            "originalTitle": "El sue\u00f1o milagroso",
+            "isAdult": "0",
+            "startYear": "1909",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001059",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "O Terremoto de Benavente",
+            "originalTitle": "O Terremoto de Benavente",
+            "isAdult": "0",
+            "startYear": "1909",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "Documentary"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001069",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Toma del Gurugu",
+            "originalTitle": "Toma del Gurugu",
+            "isAdult": "0",
+            "startYear": "1909",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001080",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Two of the Boys",
+            "originalTitle": "Two of the Boys",
+            "isAdult": "0",
+            "startYear": "1909",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001081",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "La vida en el campamento",
+            "originalTitle": "La vida en el campamento",
+            "isAdult": "0",
+            "startYear": "1909",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001082",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Viernes de dolores",
+            "originalTitle": "Viernes de dolores",
+            "isAdult": "0",
+            "startYear": "1909",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001101",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Abraham Lincoln's Clemency",
+            "originalTitle": "Abraham Lincoln's Clemency",
+            "isAdult": "0",
+            "startYear": "1910",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001109",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "L'aluminite",
+            "originalTitle": "L'aluminite",
+            "isAdult": "0",
+            "startYear": "1910",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001112",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Hamlet",
+            "originalTitle": "Amleto",
+            "isAdult": "0",
+            "startYear": "1910",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "Drama"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001113",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Amor gitano",
+            "originalTitle": "Amor gitano",
+            "isAdult": "0",
+            "startYear": "1910",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001115",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Ansigttyven I",
+            "originalTitle": "Ansigttyven I",
+            "isAdult": "0",
+            "startYear": "1910",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "Crime"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001116",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Ansigttyven II",
+            "originalTitle": "Ansigttyven II",
+            "isAdult": "0",
+            "startYear": "1910",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001122",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "The Red Inn",
+            "originalTitle": "L'auberge rouge",
+            "isAdult": "0",
+            "startYear": "1910",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001141",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "The Butterfly",
+            "originalTitle": "The Butterfly",
+            "isAdult": "0",
+            "startYear": "1910",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001142",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "By Order of Napoleon",
+            "originalTitle": "By Order of Napoleon",
+            "isAdult": "0",
+            "startYear": "1910",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001147",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "O Centen\u00e1rio da Guerra Peninsular",
+            "originalTitle": "O Centen\u00e1rio da Guerra Peninsular",
+            "isAdult": "0",
+            "startYear": "1910",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "Documentary"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001159",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "The Connecticut Yankee",
+            "originalTitle": "The Connecticut Yankee",
+            "isAdult": "0",
+            "startYear": "1910",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001163",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Corrida da Rampa",
+            "originalTitle": "Corrida da Rampa",
+            "isAdult": "0",
+            "startYear": "1910",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "Documentary"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001175",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Camille",
+            "originalTitle": "La dame aux cam\u00e9lias",
+            "isAdult": "0",
+            "startYear": "1912",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "Drama",
+                "Romance"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001179",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Desfile hist\u00f3rico del centenario",
+            "originalTitle": "Desfile hist\u00f3rico del centenario",
+            "isAdult": "0",
+            "startYear": "1910",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001184",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Don Juan de Serrallonga",
+            "originalTitle": "Don Juan de Serrallonga",
+            "isAdult": "0",
+            "startYear": "1910",
+            "endYear": null,
+            "runtimeMinutes": "58",
+            "genres": [
+                "Adventure",
+                "Drama"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001203",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Excursi\u00f3n al Gombreny",
+            "originalTitle": "Excursi\u00f3n al Gombreny",
+            "isAdult": "0",
+            "startYear": "1910",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001230",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Gentleman Joe",
+            "originalTitle": "Gentleman Joe",
+            "isAdult": "0",
+            "startYear": "1910",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001240",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Hamlet",
+            "originalTitle": "Hamlet",
+            "isAdult": "0",
+            "startYear": "1911",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "Drama"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001247",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "His Brother's Wife",
+            "originalTitle": "His Brother's Wife",
+            "isAdult": "0",
+            "startYear": "1910",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001277",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Kapergasten",
+            "originalTitle": "Kapergasten",
+            "isAdult": "0",
+            "startYear": "1910",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "Drama"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001285",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "The Life of Moses",
+            "originalTitle": "The Life of Moses",
+            "isAdult": "0",
+            "startYear": "1909",
+            "endYear": null,
+            "runtimeMinutes": "50",
+            "genres": [
+                "Biography",
+                "Drama",
+                "Family"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001338",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "A Night in May",
+            "originalTitle": "Maiskaya noch, ili utoplennitsa",
+            "isAdult": "0",
+            "startYear": "1910",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "Drama"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001341",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Jarn\u00ed sen star\u00e9ho ml\u00e1dence",
+            "originalTitle": "Jarn\u00ed sen star\u00e9ho ml\u00e1dence",
+            "isAdult": "0",
+            "startYear": "1913",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "Comedy"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001348",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Orientalsk dans",
+            "originalTitle": "Orientalsk dans",
+            "isAdult": "0",
+            "startYear": "1910",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001359",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "A Pesca do Bacalhau",
+            "originalTitle": "A Pesca do Bacalhau",
+            "isAdult": "0",
+            "startYear": "1910",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "Documentary"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001364",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "El pobre Valbuena",
+            "originalTitle": "El pobre Valbuena",
+            "isAdult": "0",
+            "startYear": "1910",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001366",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Un portero modelo",
+            "originalTitle": "Un portero modelo",
+            "isAdult": "0",
+            "startYear": "1910",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001370",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Rainha Depois de Morta In\u00eas de Castro",
+            "originalTitle": "Rainha Depois de Morta In\u00eas de Castro",
+            "isAdult": "0",
+            "startYear": "1910",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "Drama",
+                "History"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001379",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "A Record Hustle Through Foggy London",
+            "originalTitle": "A Record Hustle Through Foggy London",
+            "isAdult": "0",
+            "startYear": "1910",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001382",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Revolu\u00e7\u00e3o de 5 de Outubro",
+            "originalTitle": "Revolu\u00e7\u00e3o de 5 de Outubro",
+            "isAdult": "0",
+            "startYear": "1910",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "Documentary"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001386",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Le roi des parfums",
+            "originalTitle": "Le roi des parfums",
+            "isAdult": "0",
+            "startYear": "1910",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001422",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Trail to the West",
+            "originalTitle": "Trail to the West",
+            "isAdult": "0",
+            "startYear": "1910",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001440",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Valdemar Sejr",
+            "originalTitle": "Valdemar Sejr",
+            "isAdult": "0",
+            "startYear": "1910",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "Drama",
+                "History"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001465",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "As \u00daltimas Inunda\u00e7\u00f5es do Tejo em Santar\u00e9m",
+            "originalTitle": "As \u00daltimas Inunda\u00e7\u00f5es do Tejo em Santar\u00e9m",
+            "isAdult": "0",
+            "startYear": "1910",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001475",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Amor fatal",
+            "originalTitle": "Amor fatal",
+            "isAdult": "0",
+            "startYear": "1911",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "Drama",
+                "Romance"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001495",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "A Balkan Episode",
+            "originalTitle": "A Balkan Episode",
+            "isAdult": "0",
+            "startYear": "1911",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001498",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "The Battle of Trafalgar",
+            "originalTitle": "The Battle of Trafalgar",
+            "isAdult": "0",
+            "startYear": "1911",
+            "endYear": null,
+            "runtimeMinutes": "51",
+            "genres": [
+                "War"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001515",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "The Brand",
+            "originalTitle": "The Brand",
+            "isAdult": "0",
+            "startYear": "1911",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001530",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "The Bushranger's Bride",
+            "originalTitle": "Captain Midnight, the Bush King",
+            "isAdult": "0",
+            "startYear": "1911",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "Drama"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001531",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Captain Starlight, or Gentleman of the Road",
+            "originalTitle": "Captain Starlight, or Gentleman of the Road",
+            "isAdult": "0",
+            "startYear": "1911",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001555",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Cortejo C\u00edvico",
+            "originalTitle": "Cortejo C\u00edvico",
+            "isAdult": "0",
+            "startYear": "1911",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001586",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "A Dog's Tale",
+            "originalTitle": "A Dog's Tale",
+            "isAdult": "0",
+            "startYear": "1911",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001592",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "In the Prime of Life",
+            "originalTitle": "Ekspeditricen",
+            "isAdult": "0",
+            "startYear": "1911",
+            "endYear": null,
+            "runtimeMinutes": "52",
+            "genres": [
+                "Drama"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001602",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "El fantasma del castillo",
+            "originalTitle": "El fantasma del castillo",
+            "isAdult": "0",
+            "startYear": "1911",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001603",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Den farlige leg",
+            "originalTitle": "Den farlige leg",
+            "isAdult": "0",
+            "startYear": "1911",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "Drama"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001604",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "The Fatal Wedding",
+            "originalTitle": "The Fatal Wedding",
+            "isAdult": "0",
+            "startYear": "1911",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "Drama"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001614",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "The Four Devils",
+            "originalTitle": "De fire dj\u00e6vle",
+            "isAdult": "0",
+            "startYear": "1911",
+            "endYear": null,
+            "runtimeMinutes": "60",
+            "genres": [
+                "Drama"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001628",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "The Four Poster Pest",
+            "originalTitle": "The Four Poster Pest",
+            "isAdult": "0",
+            "startYear": "1911",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001630",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Der fremde Vogel",
+            "originalTitle": "Der fremde Vogel",
+            "isAdult": "0",
+            "startYear": "1911",
+            "endYear": null,
+            "runtimeMinutes": "45",
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001648",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "The Golden West",
+            "originalTitle": "The Golden West",
+            "isAdult": "0",
+            "startYear": "1911",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001706",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "The Infant at Snakeville",
+            "originalTitle": "The Infant at Snakeville",
+            "isAdult": "0",
+            "startYear": "1911",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001711",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Jahreszeiten des Lebens",
+            "originalTitle": "Jahreszeiten des Lebens",
+            "isAdult": "0",
+            "startYear": "1915",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001712",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Jane Shore",
+            "originalTitle": "Jane Shore",
+            "isAdult": "0",
+            "startYear": "1911",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001716",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Julius Caesar's Sandals",
+            "originalTitle": "Julius Caesar's Sandals",
+            "isAdult": "0",
+            "startYear": "1911",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001731",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "The Convict Hero",
+            "originalTitle": "The Life of Rufus Dawes",
+            "isAdult": "0",
+            "startYear": "1911",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "Drama"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001756",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Lucha por la herencia",
+            "originalTitle": "Lucha por la herencia",
+            "isAdult": "0",
+            "startYear": "1911",
+            "endYear": null,
+            "runtimeMinutes": "92",
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001764",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Madero al sur del pa\u00eds",
+            "originalTitle": "Madero al sur del pa\u00eds",
+            "isAdult": "0",
+            "startYear": "1911",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001778",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Menneskedyret",
+            "originalTitle": "Menneskedyret",
+            "isAdult": "0",
+            "startYear": "1911",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001785",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "The Miner's Curse",
+            "originalTitle": "The Miner's Curse",
+            "isAdult": "0",
+            "startYear": "1911",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "Drama"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001790",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Les Mis\u00e9rables, Part 1: Jean Valjean",
+            "originalTitle": "Les mis\u00e9rables - \u00c9poque 1: Jean Valjean",
+            "isAdult": "0",
+            "startYear": "1913",
+            "endYear": null,
+            "runtimeMinutes": "60",
+            "genres": [
+                "Drama"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001803",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "The Mystery of a Hansom Cab",
+            "originalTitle": "The Mystery of a Hansom Cab",
+            "isAdult": "0",
+            "startYear": "1911",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001812",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Oedipus Rex",
+            "originalTitle": "Oedipus Rex",
+            "isAdult": "0",
+            "startYear": "1911",
+            "endYear": null,
+            "runtimeMinutes": "56",
+            "genres": [
+                "Drama"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001889",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Sk\u00e6bneb\u00e6ltet",
+            "originalTitle": "Sk\u00e6bneb\u00e6ltet",
+            "isAdult": "0",
+            "startYear": "1911",
+            "endYear": null,
+            "runtimeMinutes": null,
+            "genres": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlebasics",
+        "pk": "tt0001892",
+        "fields": {
+            "titleType": "movie",
+            "primaryTitle": "Den sorte dr\u00f8m",
+            "originalTitle": "Den sorte dr\u00f8m",
+            "isAdult": "0",
+            "startYear": "1911",
+            "endYear": null,
+            "runtimeMinutes": "53",
+            "genres": [
+                "Drama"
+            ]
+        }
+    }
+]

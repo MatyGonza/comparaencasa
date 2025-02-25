@@ -1,0 +1,402 @@
+[
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0000009",
+        "fields": {
+            "averageRating": 5.3,
+            "numVotes": 220
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0000147",
+        "fields": {
+            "averageRating": 5.3,
+            "numVotes": 549
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0000502",
+        "fields": {
+            "averageRating": 3.8,
+            "numVotes": 20
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0000574",
+        "fields": {
+            "averageRating": 6.0,
+            "numVotes": 971
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0000591",
+        "fields": {
+            "averageRating": 5.6,
+            "numVotes": 30
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0000615",
+        "fields": {
+            "averageRating": 4.3,
+            "numVotes": 27
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0000630",
+        "fields": {
+            "averageRating": 3.1,
+            "numVotes": 30
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0000675",
+        "fields": {
+            "averageRating": 4.2,
+            "numVotes": 22
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0000679",
+        "fields": {
+            "averageRating": 5.2,
+            "numVotes": 78
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0000862",
+        "fields": {
+            "averageRating": 4.4,
+            "numVotes": 18
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0000886",
+        "fields": {
+            "averageRating": 4.5,
+            "numVotes": 39
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0000941",
+        "fields": {
+            "averageRating": 4.6,
+            "numVotes": 29
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001010",
+        "fields": {
+            "averageRating": 4.2,
+            "numVotes": 16
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001028",
+        "fields": {
+            "averageRating": 3.8,
+            "numVotes": 23
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001038",
+        "fields": {
+            "averageRating": 3.1,
+            "numVotes": 22
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001049",
+        "fields": {
+            "averageRating": 4.2,
+            "numVotes": 19
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001101",
+        "fields": {
+            "averageRating": 4.8,
+            "numVotes": 40
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001112",
+        "fields": {
+            "averageRating": 3.9,
+            "numVotes": 51
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001113",
+        "fields": {
+            "averageRating": 4.8,
+            "numVotes": 18
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001115",
+        "fields": {
+            "averageRating": 3.9,
+            "numVotes": 20
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001116",
+        "fields": {
+            "averageRating": 4.2,
+            "numVotes": 19
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001122",
+        "fields": {
+            "averageRating": 4.9,
+            "numVotes": 20
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001159",
+        "fields": {
+            "averageRating": 5.2,
+            "numVotes": 31
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001175",
+        "fields": {
+            "averageRating": 5.3,
+            "numVotes": 44
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001184",
+        "fields": {
+            "averageRating": 3.4,
+            "numVotes": 21
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001230",
+        "fields": {
+            "averageRating": 5.1,
+            "numVotes": 32
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001240",
+        "fields": {
+            "averageRating": 3.8,
+            "numVotes": 22
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001277",
+        "fields": {
+            "averageRating": 4.3,
+            "numVotes": 26
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001285",
+        "fields": {
+            "averageRating": 5.5,
+            "numVotes": 64
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001338",
+        "fields": {
+            "averageRating": 4.7,
+            "numVotes": 17
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001348",
+        "fields": {
+            "averageRating": 4.0,
+            "numVotes": 12
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001370",
+        "fields": {
+            "averageRating": 5.0,
+            "numVotes": 24
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001386",
+        "fields": {
+            "averageRating": 4.3,
+            "numVotes": 20
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001440",
+        "fields": {
+            "averageRating": 3.6,
+            "numVotes": 26
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001475",
+        "fields": {
+            "averageRating": 7.4,
+            "numVotes": 23
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001498",
+        "fields": {
+            "averageRating": 8.1,
+            "numVotes": 17
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001530",
+        "fields": {
+            "averageRating": 5.4,
+            "numVotes": 19
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001531",
+        "fields": {
+            "averageRating": 4.6,
+            "numVotes": 15
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001586",
+        "fields": {
+            "averageRating": 4.4,
+            "numVotes": 20
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001592",
+        "fields": {
+            "averageRating": 5.9,
+            "numVotes": 29
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001614",
+        "fields": {
+            "averageRating": 6.5,
+            "numVotes": 43
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001630",
+        "fields": {
+            "averageRating": 6.1,
+            "numVotes": 47
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001648",
+        "fields": {
+            "averageRating": 4.2,
+            "numVotes": 8
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001706",
+        "fields": {
+            "averageRating": 5.0,
+            "numVotes": 19
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001712",
+        "fields": {
+            "averageRating": 4.6,
+            "numVotes": 8
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001790",
+        "fields": {
+            "averageRating": 6.0,
+            "numVotes": 57
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001803",
+        "fields": {
+            "averageRating": 2.8,
+            "numVotes": 14
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001812",
+        "fields": {
+            "averageRating": 5.5,
+            "numVotes": 15
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001889",
+        "fields": {
+            "averageRating": 3.7,
+            "numVotes": 16
+        }
+    },
+    {
+        "model": "miapp.titleratings",
+        "pk": "tt0001892",
+        "fields": {
+            "averageRating": 5.8,
+            "numVotes": 278
+        }
+    }
+]

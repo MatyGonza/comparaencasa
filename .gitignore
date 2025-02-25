@@ -1,0 +1,70 @@
+# Archivos de entorno
+.env
+.env.local
+.env.development
+.env.prod
+
+# Archivos de configuración de Django
+/settings/local.py
+/settings/development.py
+/settings/production.py
+
+# Archivos de base de datos
+*.sqlite3
+*.db
+*.sql
+*.dump
+
+# Archivos de migraciones de Django
+*/migrations/*.py
+!*/migrations/__init__.py
+
+# Archivos de caché y logs
+*.log
+*.pyc
+__pycache__/
+*.cache
+*.pot
+*.py[co]
+*.swp
+*.swo
+
+# Directorios de dependencias
+node_modules/
+venv/
+.venv/
+env/
+.env/
+.virtualenvs/
+*.egg-info/
+dist/
+build/
+*.egg
+*.whl
+
+# Archivos de React
+/build/
+/.next/
+/.cache/
+/.npm
+/.yarn
+yarn-error.log
+npm-debug.log
+
+# Archivos de IDE
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de testing
+.coverage
+htmlcov/
+.pytest_cache/

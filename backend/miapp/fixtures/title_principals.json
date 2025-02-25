@@ -1,0 +1,6446 @@
+[
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 28,
+        "fields": {
+            "tconst": "tt0000009",
+            "ordering": 1,
+            "nconst": "nm0063086",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Miss Geraldine Holbrook (Miss Jerry)\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 29,
+        "fields": {
+            "tconst": "tt0000009",
+            "ordering": 2,
+            "nconst": "nm0183823",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Mr. Hamilton\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 30,
+        "fields": {
+            "tconst": "tt0000009",
+            "ordering": 3,
+            "nconst": "nm1309758",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Chauncey Depew - the Director of the New York Central Railroad\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 31,
+        "fields": {
+            "tconst": "tt0000009",
+            "ordering": 4,
+            "nconst": "nm0085156",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 32,
+        "fields": {
+            "tconst": "tt0000009",
+            "ordering": 5,
+            "nconst": "nm0085156",
+            "category": "writer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 33,
+        "fields": {
+            "tconst": "tt0000009",
+            "ordering": 6,
+            "nconst": "nm0085156",
+            "category": "producer",
+            "job": "producer",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 34,
+        "fields": {
+            "tconst": "tt0000009",
+            "ordering": 7,
+            "nconst": "nm0085156",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 328,
+        "fields": {
+            "tconst": "tt0000147",
+            "ordering": 1,
+            "nconst": "nm0179163",
+            "category": "self",
+            "job": null,
+            "characters": "[\"Self\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 329,
+        "fields": {
+            "tconst": "tt0000147",
+            "ordering": 2,
+            "nconst": "nm0280615",
+            "category": "self",
+            "job": null,
+            "characters": "[\"Self\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 330,
+        "fields": {
+            "tconst": "tt0000147",
+            "ordering": 3,
+            "nconst": "nm4082222",
+            "category": "self",
+            "job": null,
+            "characters": "[\"Self - Sullivan's Manager\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 331,
+        "fields": {
+            "tconst": "tt0000147",
+            "ordering": 4,
+            "nconst": "nm4081458",
+            "category": "self",
+            "job": null,
+            "characters": "[\"Self - Referee\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 332,
+        "fields": {
+            "tconst": "tt0000147",
+            "ordering": 5,
+            "nconst": "nm2256592",
+            "category": "self",
+            "job": null,
+            "characters": "[\"Self - Master of Ceremonies\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 333,
+        "fields": {
+            "tconst": "tt0000147",
+            "ordering": 6,
+            "nconst": "nm0714557",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 334,
+        "fields": {
+            "tconst": "tt0000147",
+            "ordering": 7,
+            "nconst": "nm0103755",
+            "category": "producer",
+            "job": "producer",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 335,
+        "fields": {
+            "tconst": "tt0000147",
+            "ordering": 8,
+            "nconst": "nm0714557",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1091,
+        "fields": {
+            "tconst": "tt0000502",
+            "ordering": 1,
+            "nconst": "nm0215752",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1092,
+        "fields": {
+            "tconst": "tt0000502",
+            "ordering": 2,
+            "nconst": "nm0252720",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1093,
+        "fields": {
+            "tconst": "tt0000502",
+            "ordering": 3,
+            "nconst": "nm0063413",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1094,
+        "fields": {
+            "tconst": "tt0000502",
+            "ordering": 4,
+            "nconst": "nm0063413",
+            "category": "writer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1095,
+        "fields": {
+            "tconst": "tt0000502",
+            "ordering": 5,
+            "nconst": "nm0657268",
+            "category": "writer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1096,
+        "fields": {
+            "tconst": "tt0000502",
+            "ordering": 6,
+            "nconst": "nm0675388",
+            "category": "writer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1097,
+        "fields": {
+            "tconst": "tt0000502",
+            "ordering": 7,
+            "nconst": "nm0063413",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1336,
+        "fields": {
+            "tconst": "tt0000574",
+            "ordering": 1,
+            "nconst": "nm0846887",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Kate Kelly\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1337,
+        "fields": {
+            "tconst": "tt0000574",
+            "ordering": 2,
+            "nconst": "nm0846894",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"School Master\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1338,
+        "fields": {
+            "tconst": "tt0000574",
+            "ordering": 3,
+            "nconst": "nm1431224",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Joe Byrne\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1339,
+        "fields": {
+            "tconst": "tt0000574",
+            "ordering": 4,
+            "nconst": "nm3002376",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Steve Hart\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1340,
+        "fields": {
+            "tconst": "tt0000574",
+            "ordering": 5,
+            "nconst": "nm0143899",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Ned Kelly\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1341,
+        "fields": {
+            "tconst": "tt0000574",
+            "ordering": 6,
+            "nconst": "nm0170118",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1342,
+        "fields": {
+            "tconst": "tt0000574",
+            "ordering": 7,
+            "nconst": "nm3001683",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Joe Byrne\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1343,
+        "fields": {
+            "tconst": "tt0000574",
+            "ordering": 8,
+            "nconst": "nm0187697",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Dan Kelly\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1344,
+        "fields": {
+            "tconst": "tt0000574",
+            "ordering": 9,
+            "nconst": "nm3002754",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Steve Hart\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1345,
+        "fields": {
+            "tconst": "tt0000574",
+            "ordering": 10,
+            "nconst": "nm3003322",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Dan Kelly\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1346,
+        "fields": {
+            "tconst": "tt0000574",
+            "ordering": 11,
+            "nconst": "nm0846879",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1347,
+        "fields": {
+            "tconst": "tt0000574",
+            "ordering": 12,
+            "nconst": "nm0846879",
+            "category": "writer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1348,
+        "fields": {
+            "tconst": "tt0000574",
+            "ordering": 13,
+            "nconst": "nm0317210",
+            "category": "producer",
+            "job": "producer",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1349,
+        "fields": {
+            "tconst": "tt0000574",
+            "ordering": 14,
+            "nconst": "nm0425854",
+            "category": "producer",
+            "job": "producer",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1350,
+        "fields": {
+            "tconst": "tt0000574",
+            "ordering": 15,
+            "nconst": "nm0846894",
+            "category": "producer",
+            "job": "producer",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1351,
+        "fields": {
+            "tconst": "tt0000574",
+            "ordering": 16,
+            "nconst": "nm0846911",
+            "category": "producer",
+            "job": "producer",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1352,
+        "fields": {
+            "tconst": "tt0000574",
+            "ordering": 17,
+            "nconst": "nm2421834",
+            "category": "composer",
+            "job": "composer",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1353,
+        "fields": {
+            "tconst": "tt0000574",
+            "ordering": 18,
+            "nconst": "nm0425854",
+            "category": "cinematographer",
+            "job": "director of photography",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1354,
+        "fields": {
+            "tconst": "tt0000574",
+            "ordering": 19,
+            "nconst": "nm0675239",
+            "category": "cinematographer",
+            "job": "director of photography",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1355,
+        "fields": {
+            "tconst": "tt0000574",
+            "ordering": 20,
+            "nconst": "nm0675260",
+            "category": "cinematographer",
+            "job": "director of photography",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1424,
+        "fields": {
+            "tconst": "tt0000591",
+            "ordering": 1,
+            "nconst": "nm0906197",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1425,
+        "fields": {
+            "tconst": "tt0000591",
+            "ordering": 2,
+            "nconst": "nm0332182",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1426,
+        "fields": {
+            "tconst": "tt0000591",
+            "ordering": 3,
+            "nconst": "nm1323543",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1427,
+        "fields": {
+            "tconst": "tt0000591",
+            "ordering": 4,
+            "nconst": "nm1759558",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1428,
+        "fields": {
+            "tconst": "tt0000591",
+            "ordering": 5,
+            "nconst": "nm0141150",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1429,
+        "fields": {
+            "tconst": "tt0000591",
+            "ordering": 6,
+            "nconst": "nm0141150",
+            "category": "writer",
+            "job": "pantomime",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1544,
+        "fields": {
+            "tconst": "tt0000615",
+            "ordering": 1,
+            "nconst": "nm3071427",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Warrigal\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1545,
+        "fields": {
+            "tconst": "tt0000615",
+            "ordering": 2,
+            "nconst": "nm0581353",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Warder\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1546,
+        "fields": {
+            "tconst": "tt0000615",
+            "ordering": 3,
+            "nconst": "nm0888988",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Inspector of Police\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1547,
+        "fields": {
+            "tconst": "tt0000615",
+            "ordering": 4,
+            "nconst": "nm0240418",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Trooper\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1548,
+        "fields": {
+            "tconst": "tt0000615",
+            "ordering": 5,
+            "nconst": "nm0346387",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Curate\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1549,
+        "fields": {
+            "tconst": "tt0000615",
+            "ordering": 6,
+            "nconst": "nm0218953",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1550,
+        "fields": {
+            "tconst": "tt0000615",
+            "ordering": 7,
+            "nconst": "nm0533958",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1551,
+        "fields": {
+            "tconst": "tt0000615",
+            "ordering": 8,
+            "nconst": "nm0092809",
+            "category": "writer",
+            "job": "novel",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1552,
+        "fields": {
+            "tconst": "tt0000615",
+            "ordering": 9,
+            "nconst": "nm0533958",
+            "category": "writer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1553,
+        "fields": {
+            "tconst": "tt0000615",
+            "ordering": 10,
+            "nconst": "nm0167619",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1554,
+        "fields": {
+            "tconst": "tt0000615",
+            "ordering": 11,
+            "nconst": "nm0240418",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1632,
+        "fields": {
+            "tconst": "tt0000630",
+            "ordering": 1,
+            "nconst": "nm0624446",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Ofelia\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1633,
+        "fields": {
+            "tconst": "tt0000630",
+            "ordering": 2,
+            "nconst": "nm0143333",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1634,
+        "fields": {
+            "tconst": "tt0000630",
+            "ordering": 3,
+            "nconst": "nm0000636",
+            "category": "writer",
+            "job": "play \"Hamlet\"",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1635,
+        "fields": {
+            "tconst": "tt0000630",
+            "ordering": 4,
+            "nconst": "nm0209738",
+            "category": "producer",
+            "job": "producer",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1954,
+        "fields": {
+            "tconst": "tt0000675",
+            "ordering": 1,
+            "nconst": "nm0194088",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1955,
+        "fields": {
+            "tconst": "tt0000675",
+            "ordering": 2,
+            "nconst": "nm0148859",
+            "category": "writer",
+            "job": "novel",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1970,
+        "fields": {
+            "tconst": "tt0000679",
+            "ordering": 1,
+            "nconst": "nm0000875",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"The Wizard of Oz Man\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1971,
+        "fields": {
+            "tconst": "tt0000679",
+            "ordering": 2,
+            "nconst": "nm0122665",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"His Majesty the Scarecrow\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1972,
+        "fields": {
+            "tconst": "tt0000679",
+            "ordering": 3,
+            "nconst": "nm0122665",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Para Bruin - the Rubber Bear\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1973,
+        "fields": {
+            "tconst": "tt0000679",
+            "ordering": 4,
+            "nconst": "nm0933446",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Nick Chopper - Tin Woodman\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1974,
+        "fields": {
+            "tconst": "tt0000679",
+            "ordering": 5,
+            "nconst": "nm0933446",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"The White Rabbit\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1975,
+        "fields": {
+            "tconst": "tt0000679",
+            "ordering": 6,
+            "nconst": "nm2924919",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Tik-Tok - the Machine Man\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1976,
+        "fields": {
+            "tconst": "tt0000679",
+            "ordering": 7,
+            "nconst": "nm2924347",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Jack Pumpkinhead - whose Brains are Seeds\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1977,
+        "fields": {
+            "tconst": "tt0000679",
+            "ordering": 8,
+            "nconst": "nm2922906",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"The Nome King - Master of Enchantments\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1978,
+        "fields": {
+            "tconst": "tt0000679",
+            "ordering": 9,
+            "nconst": "nm0607349",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Tip\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1979,
+        "fields": {
+            "tconst": "tt0000679",
+            "ordering": 10,
+            "nconst": "nm2924736",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Prince Evring of Ev\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1980,
+        "fields": {
+            "tconst": "tt0000679",
+            "ordering": 11,
+            "nconst": "nm2923902",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"The Wizard\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1981,
+        "fields": {
+            "tconst": "tt0000679",
+            "ordering": 12,
+            "nconst": "nm0775422",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"The Cowardly Lion\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1982,
+        "fields": {
+            "tconst": "tt0000679",
+            "ordering": 13,
+            "nconst": "nm0775422",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"John Dough - the Gingerbread Man\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1983,
+        "fields": {
+            "tconst": "tt0000679",
+            "ordering": 14,
+            "nconst": "nm0091767",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1984,
+        "fields": {
+            "tconst": "tt0000679",
+            "ordering": 15,
+            "nconst": "nm0877783",
+            "category": "director",
+            "job": "director",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1985,
+        "fields": {
+            "tconst": "tt0000679",
+            "ordering": 16,
+            "nconst": "nm0000875",
+            "category": "writer",
+            "job": "novels \"The Wonderful Wizard of Oz\", \"The Marvelous Land of Oz\", \"John Dough and the Cherub\" and \"Ozma of Oz\"",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1986,
+        "fields": {
+            "tconst": "tt0000679",
+            "ordering": 17,
+            "nconst": "nm0877783",
+            "category": "writer",
+            "job": "writer",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1987,
+        "fields": {
+            "tconst": "tt0000679",
+            "ordering": 18,
+            "nconst": "nm0000875",
+            "category": "producer",
+            "job": "producer",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1988,
+        "fields": {
+            "tconst": "tt0000679",
+            "ordering": 19,
+            "nconst": "nm0877783",
+            "category": "producer",
+            "job": "producer",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 1989,
+        "fields": {
+            "tconst": "tt0000679",
+            "ordering": 20,
+            "nconst": "nm0542903",
+            "category": "composer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3223,
+        "fields": {
+            "tconst": "tt0000838",
+            "ordering": 1,
+            "nconst": "nm0017074",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3258,
+        "fields": {
+            "tconst": "tt0000842",
+            "ordering": 1,
+            "nconst": "nm0005717",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3259,
+        "fields": {
+            "tconst": "tt0000842",
+            "ordering": 2,
+            "nconst": "nm0005717",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3302,
+        "fields": {
+            "tconst": "tt0000846",
+            "ordering": 1,
+            "nconst": "nm0023107",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3316,
+        "fields": {
+            "tconst": "tt0000850",
+            "ordering": 1,
+            "nconst": "nm0063413",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3317,
+        "fields": {
+            "tconst": "tt0000850",
+            "ordering": 2,
+            "nconst": "nm0550220",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3318,
+        "fields": {
+            "tconst": "tt0000850",
+            "ordering": 3,
+            "nconst": "nm0063413",
+            "category": "writer",
+            "job": "writer",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3319,
+        "fields": {
+            "tconst": "tt0000850",
+            "ordering": 4,
+            "nconst": "nm0550220",
+            "category": "writer",
+            "job": "writer",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3320,
+        "fields": {
+            "tconst": "tt0000850",
+            "ordering": 5,
+            "nconst": "nm0063412",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3416,
+        "fields": {
+            "tconst": "tt0000859",
+            "ordering": 1,
+            "nconst": "nm0005717",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3417,
+        "fields": {
+            "tconst": "tt0000859",
+            "ordering": 2,
+            "nconst": "nm0005717",
+            "category": "writer",
+            "job": "screenplay",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3418,
+        "fields": {
+            "tconst": "tt0000859",
+            "ordering": 3,
+            "nconst": "nm0005717",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3448,
+        "fields": {
+            "tconst": "tt0000862",
+            "ordering": 1,
+            "nconst": "nm5289829",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Charles\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3449,
+        "fields": {
+            "tconst": "tt0000862",
+            "ordering": 2,
+            "nconst": "nm0264569",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Gervaise\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3450,
+        "fields": {
+            "tconst": "tt0000862",
+            "ordering": 3,
+            "nconst": "nm0386036",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Fader Loriot\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3451,
+        "fields": {
+            "tconst": "tt0000862",
+            "ordering": 4,
+            "nconst": "nm0511080",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Blegn\u00e6b\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3452,
+        "fields": {
+            "tconst": "tt0000862",
+            "ordering": 5,
+            "nconst": "nm0526190",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Coupeau\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3453,
+        "fields": {
+            "tconst": "tt0000862",
+            "ordering": 6,
+            "nconst": "nm5188470",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"V\u00e6rt\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3454,
+        "fields": {
+            "tconst": "tt0000862",
+            "ordering": 7,
+            "nconst": "nm5289318",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Doktor\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3455,
+        "fields": {
+            "tconst": "tt0000862",
+            "ordering": 8,
+            "nconst": "nm0762935",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Virginie\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3456,
+        "fields": {
+            "tconst": "tt0000862",
+            "ordering": 9,
+            "nconst": "nm0834325",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"R\u00f8de Bibi\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3457,
+        "fields": {
+            "tconst": "tt0000862",
+            "ordering": 10,
+            "nconst": "nm0878467",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Lantier\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3458,
+        "fields": {
+            "tconst": "tt0000862",
+            "ordering": 11,
+            "nconst": "nm0878467",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3459,
+        "fields": {
+            "tconst": "tt0000862",
+            "ordering": 12,
+            "nconst": "nm0957652",
+            "category": "writer",
+            "job": "novel \"L'Assommoir\"",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3460,
+        "fields": {
+            "tconst": "tt0000862",
+            "ordering": 13,
+            "nconst": "nm0535229",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3461,
+        "fields": {
+            "tconst": "tt0000862",
+            "ordering": 14,
+            "nconst": "nm0526190",
+            "category": "production_designer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3482,
+        "fields": {
+            "tconst": "tt0000867",
+            "ordering": 1,
+            "nconst": "nm0023107",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3483,
+        "fields": {
+            "tconst": "tt0000868",
+            "ordering": 1,
+            "nconst": "nm0005717",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3484,
+        "fields": {
+            "tconst": "tt0000868",
+            "ordering": 2,
+            "nconst": "nm0005717",
+            "category": "writer",
+            "job": "screenplay",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3485,
+        "fields": {
+            "tconst": "tt0000869",
+            "ordering": 1,
+            "nconst": "nm0005717",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3486,
+        "fields": {
+            "tconst": "tt0000869",
+            "ordering": 2,
+            "nconst": "nm0005717",
+            "category": "writer",
+            "job": "writer",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3487,
+        "fields": {
+            "tconst": "tt0000869",
+            "ordering": 3,
+            "nconst": "nm0005717",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3573,
+        "fields": {
+            "tconst": "tt0000879",
+            "ordering": 1,
+            "nconst": "nm1747784",
+            "category": "self",
+            "job": null,
+            "characters": "[\"Self\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3574,
+        "fields": {
+            "tconst": "tt0000879",
+            "ordering": 2,
+            "nconst": "nm2681099",
+            "category": "self",
+            "job": null,
+            "characters": "[\"Self\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3575,
+        "fields": {
+            "tconst": "tt0000879",
+            "ordering": 3,
+            "nconst": "nm0023107",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3632,
+        "fields": {
+            "tconst": "tt0000886",
+            "ordering": 1,
+            "nconst": "nm0609814",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Hamlet\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3633,
+        "fields": {
+            "tconst": "tt0000886",
+            "ordering": 2,
+            "nconst": "nm0099901",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 3634,
+        "fields": {
+            "tconst": "tt0000886",
+            "ordering": 3,
+            "nconst": "nm0000636",
+            "category": "writer",
+            "job": "play",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 4140,
+        "fields": {
+            "tconst": "tt0000941",
+            "ordering": 1,
+            "nconst": "nm0034453",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 4141,
+        "fields": {
+            "tconst": "tt0000941",
+            "ordering": 2,
+            "nconst": "nm0140054",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 4142,
+        "fields": {
+            "tconst": "tt0000941",
+            "ordering": 3,
+            "nconst": "nm0243918",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 4143,
+        "fields": {
+            "tconst": "tt0000941",
+            "ordering": 4,
+            "nconst": "nm0294022",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 4144,
+        "fields": {
+            "tconst": "tt0000941",
+            "ordering": 5,
+            "nconst": "nm0478718",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 4145,
+        "fields": {
+            "tconst": "tt0000941",
+            "ordering": 6,
+            "nconst": "nm0735618",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 4146,
+        "fields": {
+            "tconst": "tt0000941",
+            "ordering": 7,
+            "nconst": "nm0063413",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 4147,
+        "fields": {
+            "tconst": "tt0000941",
+            "ordering": 8,
+            "nconst": "nm0550220",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 4148,
+        "fields": {
+            "tconst": "tt0000941",
+            "ordering": 9,
+            "nconst": "nm0063413",
+            "category": "writer",
+            "job": "writer",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 4149,
+        "fields": {
+            "tconst": "tt0000941",
+            "ordering": 10,
+            "nconst": "nm0550220",
+            "category": "writer",
+            "job": "writer",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 4150,
+        "fields": {
+            "tconst": "tt0000941",
+            "ordering": 11,
+            "nconst": "nm0848502",
+            "category": "writer",
+            "job": "play",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 4151,
+        "fields": {
+            "tconst": "tt0000941",
+            "ordering": 12,
+            "nconst": "nm0063413",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 4214,
+        "fields": {
+            "tconst": "tt0000947",
+            "ordering": 1,
+            "nconst": "nm0488932",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 4215,
+        "fields": {
+            "tconst": "tt0000947",
+            "ordering": 2,
+            "nconst": "nm0814379",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 4269,
+        "fields": {
+            "tconst": "tt0000959",
+            "ordering": 1,
+            "nconst": "nm0185426",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 4270,
+        "fields": {
+            "tconst": "tt0000959",
+            "ordering": 2,
+            "nconst": "nm0185426",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 4271,
+        "fields": {
+            "tconst": "tt0000959",
+            "ordering": 3,
+            "nconst": "nm0870831",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 4473,
+        "fields": {
+            "tconst": "tt0000984",
+            "ordering": 1,
+            "nconst": "nm0023107",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 4667,
+        "fields": {
+            "tconst": "tt0001007",
+            "ordering": 1,
+            "nconst": "nm0185426",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 4668,
+        "fields": {
+            "tconst": "tt0001007",
+            "ordering": 2,
+            "nconst": "nm0185426",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 4669,
+        "fields": {
+            "tconst": "tt0001007",
+            "ordering": 3,
+            "nconst": "nm0870831",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 4681,
+        "fields": {
+            "tconst": "tt0001010",
+            "ordering": 1,
+            "nconst": "nm0185426",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 4682,
+        "fields": {
+            "tconst": "tt0001010",
+            "ordering": 2,
+            "nconst": "nm0185426",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 4683,
+        "fields": {
+            "tconst": "tt0001010",
+            "ordering": 3,
+            "nconst": "nm0870831",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 4862,
+        "fields": {
+            "tconst": "tt0001028",
+            "ordering": 1,
+            "nconst": "nm0294276",
+            "category": "director",
+            "job": "director",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 4863,
+        "fields": {
+            "tconst": "tt0001028",
+            "ordering": 2,
+            "nconst": "nm0378408",
+            "category": "producer",
+            "job": "producer",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 4965,
+        "fields": {
+            "tconst": "tt0001043",
+            "ordering": 1,
+            "nconst": "nm0294276",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5008,
+        "fields": {
+            "tconst": "tt0001049",
+            "ordering": 1,
+            "nconst": "nm0104856",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Tam\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5009,
+        "fields": {
+            "tconst": "tt0001049",
+            "ordering": 2,
+            "nconst": "nm0251436",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5010,
+        "fields": {
+            "tconst": "tt0001049",
+            "ordering": 3,
+            "nconst": "nm0280746",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5011,
+        "fields": {
+            "tconst": "tt0001049",
+            "ordering": 4,
+            "nconst": "nm0526190",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"G\u00f8ngeh\u00f8vdingen\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5012,
+        "fields": {
+            "tconst": "tt0001049",
+            "ordering": 5,
+            "nconst": "nm5188470",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Ib\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5013,
+        "fields": {
+            "tconst": "tt0001049",
+            "ordering": 6,
+            "nconst": "nm5217890",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Mogens Krabbe\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5014,
+        "fields": {
+            "tconst": "tt0001049",
+            "ordering": 7,
+            "nconst": "nm0762935",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5015,
+        "fields": {
+            "tconst": "tt0001049",
+            "ordering": 8,
+            "nconst": "nm1834127",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Palle\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5016,
+        "fields": {
+            "tconst": "tt0001049",
+            "ordering": 9,
+            "nconst": "nm0022607",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5017,
+        "fields": {
+            "tconst": "tt0001049",
+            "ordering": 10,
+            "nconst": "nm0535229",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5018,
+        "fields": {
+            "tconst": "tt0001049",
+            "ordering": 11,
+            "nconst": "nm0526190",
+            "category": "production_designer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5033,
+        "fields": {
+            "tconst": "tt0001051",
+            "ordering": 1,
+            "nconst": "nm0063413",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5034,
+        "fields": {
+            "tconst": "tt0001051",
+            "ordering": 2,
+            "nconst": "nm0550220",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5035,
+        "fields": {
+            "tconst": "tt0001051",
+            "ordering": 3,
+            "nconst": "nm0063413",
+            "category": "writer",
+            "job": "writer",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5036,
+        "fields": {
+            "tconst": "tt0001051",
+            "ordering": 4,
+            "nconst": "nm0550220",
+            "category": "writer",
+            "job": "writer",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5037,
+        "fields": {
+            "tconst": "tt0001051",
+            "ordering": 5,
+            "nconst": "nm0063413",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5092,
+        "fields": {
+            "tconst": "tt0001059",
+            "ordering": 1,
+            "nconst": "nm0826298",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5196,
+        "fields": {
+            "tconst": "tt0001069",
+            "ordering": 1,
+            "nconst": "nm0185426",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5197,
+        "fields": {
+            "tconst": "tt0001069",
+            "ordering": 2,
+            "nconst": "nm0185426",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5198,
+        "fields": {
+            "tconst": "tt0001069",
+            "ordering": 3,
+            "nconst": "nm0870831",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5318,
+        "fields": {
+            "tconst": "tt0001080",
+            "ordering": 1,
+            "nconst": "nm0294276",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5319,
+        "fields": {
+            "tconst": "tt0001081",
+            "ordering": 1,
+            "nconst": "nm0185426",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5320,
+        "fields": {
+            "tconst": "tt0001081",
+            "ordering": 2,
+            "nconst": "nm0185426",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5321,
+        "fields": {
+            "tconst": "tt0001081",
+            "ordering": 3,
+            "nconst": "nm0870831",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5322,
+        "fields": {
+            "tconst": "tt0001082",
+            "ordering": 1,
+            "nconst": "nm0023107",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5507,
+        "fields": {
+            "tconst": "tt0001101",
+            "ordering": 1,
+            "nconst": "nm0923594",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5508,
+        "fields": {
+            "tconst": "tt0001101",
+            "ordering": 2,
+            "nconst": "nm0923603",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5509,
+        "fields": {
+            "tconst": "tt0001101",
+            "ordering": 3,
+            "nconst": "nm0923603",
+            "category": "producer",
+            "job": "producer",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5576,
+        "fields": {
+            "tconst": "tt0001109",
+            "ordering": 1,
+            "nconst": "nm0304098",
+            "category": "writer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5587,
+        "fields": {
+            "tconst": "tt0001112",
+            "ordering": 1,
+            "nconst": "nm0135493",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Hamlet\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5588,
+        "fields": {
+            "tconst": "tt0001112",
+            "ordering": 2,
+            "nconst": "nm0143332",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5589,
+        "fields": {
+            "tconst": "tt0001112",
+            "ordering": 3,
+            "nconst": "nm0143333",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5590,
+        "fields": {
+            "tconst": "tt0001112",
+            "ordering": 4,
+            "nconst": "nm0000636",
+            "category": "writer",
+            "job": "play \"Hamlet\"",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5591,
+        "fields": {
+            "tconst": "tt0001113",
+            "ordering": 1,
+            "nconst": "nm0159015",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5592,
+        "fields": {
+            "tconst": "tt0001113",
+            "ordering": 2,
+            "nconst": "nm0159015",
+            "category": "writer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5593,
+        "fields": {
+            "tconst": "tt0001113",
+            "ordering": 3,
+            "nconst": "nm0159015",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5597,
+        "fields": {
+            "tconst": "tt0001115",
+            "ordering": 1,
+            "nconst": "nm0064953",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Chief of Police\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5598,
+        "fields": {
+            "tconst": "tt0001115",
+            "ordering": 2,
+            "nconst": "nm0085066",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Pariserdrengen\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5599,
+        "fields": {
+            "tconst": "tt0001115",
+            "ordering": 3,
+            "nconst": "nm0169878",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Svi-Svi\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5600,
+        "fields": {
+            "tconst": "tt0001115",
+            "ordering": 4,
+            "nconst": "nm0299757",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"R\u00f8ret\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5601,
+        "fields": {
+            "tconst": "tt0001115",
+            "ordering": 5,
+            "nconst": "nm0306604",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5602,
+        "fields": {
+            "tconst": "tt0001115",
+            "ordering": 6,
+            "nconst": "nm1834296",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5603,
+        "fields": {
+            "tconst": "tt0001115",
+            "ordering": 7,
+            "nconst": "nm0539049",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5604,
+        "fields": {
+            "tconst": "tt0001115",
+            "ordering": 8,
+            "nconst": "nm0627140",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5605,
+        "fields": {
+            "tconst": "tt0001115",
+            "ordering": 9,
+            "nconst": "nm0630641",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Dansemusen\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5606,
+        "fields": {
+            "tconst": "tt0001115",
+            "ordering": 10,
+            "nconst": "nm0736379",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Ingeborg\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5607,
+        "fields": {
+            "tconst": "tt0001115",
+            "ordering": 11,
+            "nconst": "nm0375839",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5608,
+        "fields": {
+            "tconst": "tt0001115",
+            "ordering": 12,
+            "nconst": "nm0306604",
+            "category": "writer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5609,
+        "fields": {
+            "tconst": "tt0001116",
+            "ordering": 1,
+            "nconst": "nm0064953",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5610,
+        "fields": {
+            "tconst": "tt0001116",
+            "ordering": 2,
+            "nconst": "nm0085066",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5611,
+        "fields": {
+            "tconst": "tt0001116",
+            "ordering": 3,
+            "nconst": "nm0169878",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5612,
+        "fields": {
+            "tconst": "tt0001116",
+            "ordering": 4,
+            "nconst": "nm0299757",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5613,
+        "fields": {
+            "tconst": "tt0001116",
+            "ordering": 5,
+            "nconst": "nm0306604",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5614,
+        "fields": {
+            "tconst": "tt0001116",
+            "ordering": 6,
+            "nconst": "nm0539049",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5615,
+        "fields": {
+            "tconst": "tt0001116",
+            "ordering": 7,
+            "nconst": "nm0627140",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5616,
+        "fields": {
+            "tconst": "tt0001116",
+            "ordering": 8,
+            "nconst": "nm0630641",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5617,
+        "fields": {
+            "tconst": "tt0001116",
+            "ordering": 9,
+            "nconst": "nm0736379",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5618,
+        "fields": {
+            "tconst": "tt0001116",
+            "ordering": 10,
+            "nconst": "nm0772788",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5619,
+        "fields": {
+            "tconst": "tt0001116",
+            "ordering": 11,
+            "nconst": "nm0375839",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5670,
+        "fields": {
+            "tconst": "tt0001122",
+            "ordering": 1,
+            "nconst": "nm0154988",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5671,
+        "fields": {
+            "tconst": "tt0001122",
+            "ordering": 2,
+            "nconst": "nm0167461",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5672,
+        "fields": {
+            "tconst": "tt0001122",
+            "ordering": 3,
+            "nconst": "nm0756543",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5673,
+        "fields": {
+            "tconst": "tt0001122",
+            "ordering": 4,
+            "nconst": "nm0941542",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5674,
+        "fields": {
+            "tconst": "tt0001122",
+            "ordering": 5,
+            "nconst": "nm0605942",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5675,
+        "fields": {
+            "tconst": "tt0001122",
+            "ordering": 6,
+            "nconst": "nm0304098",
+            "category": "writer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5676,
+        "fields": {
+            "tconst": "tt0001122",
+            "ordering": 7,
+            "nconst": "nm0051304",
+            "category": "writer",
+            "job": "short story \"L'auberge rouge\"",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5787,
+        "fields": {
+            "tconst": "tt0001141",
+            "ordering": 1,
+            "nconst": "nm0666972",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5788,
+        "fields": {
+            "tconst": "tt0001141",
+            "ordering": 2,
+            "nconst": "nm0666972",
+            "category": "producer",
+            "job": "producer",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5789,
+        "fields": {
+            "tconst": "tt0001142",
+            "ordering": 1,
+            "nconst": "nm0294276",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 5930,
+        "fields": {
+            "tconst": "tt0001159",
+            "ordering": 1,
+            "nconst": "nm0597995",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6030,
+        "fields": {
+            "tconst": "tt0001175",
+            "ordering": 1,
+            "nconst": "nm0076800",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Marguerite Gauthier\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6031,
+        "fields": {
+            "tconst": "tt0001175",
+            "ordering": 2,
+            "nconst": "nm0854414",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Armand Duval\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6032,
+        "fields": {
+            "tconst": "tt0001175",
+            "ordering": 3,
+            "nconst": "nm0135053",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Sadoul\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6033,
+        "fields": {
+            "tconst": "tt0001175",
+            "ordering": 4,
+            "nconst": "nm0363465",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6034,
+        "fields": {
+            "tconst": "tt0001175",
+            "ordering": 5,
+            "nconst": "nm1267013",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6035,
+        "fields": {
+            "tconst": "tt0001175",
+            "ordering": 6,
+            "nconst": "nm0221142",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6036,
+        "fields": {
+            "tconst": "tt0001175",
+            "ordering": 7,
+            "nconst": "nm0693516",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6037,
+        "fields": {
+            "tconst": "tt0001175",
+            "ordering": 8,
+            "nconst": "nm1808145",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6038,
+        "fields": {
+            "tconst": "tt0001175",
+            "ordering": 9,
+            "nconst": "nm0130633",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6039,
+        "fields": {
+            "tconst": "tt0001175",
+            "ordering": 10,
+            "nconst": "nm0580197",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6040,
+        "fields": {
+            "tconst": "tt0001175",
+            "ordering": 11,
+            "nconst": "nm0693516",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6041,
+        "fields": {
+            "tconst": "tt0001175",
+            "ordering": 12,
+            "nconst": "nm0241414",
+            "category": "writer",
+            "job": "novel and play \"La dame aux cam\u00e9lias\"",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6042,
+        "fields": {
+            "tconst": "tt0001175",
+            "ordering": 13,
+            "nconst": "nm0693516",
+            "category": "writer",
+            "job": "screenplay",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6043,
+        "fields": {
+            "tconst": "tt0001175",
+            "ordering": 14,
+            "nconst": "nm0216066",
+            "category": "producer",
+            "job": "producer",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6044,
+        "fields": {
+            "tconst": "tt0001175",
+            "ordering": 15,
+            "nconst": "nm0620586",
+            "category": "producer",
+            "job": "producer",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6045,
+        "fields": {
+            "tconst": "tt0001175",
+            "ordering": 16,
+            "nconst": "nm0561109",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6071,
+        "fields": {
+            "tconst": "tt0001179",
+            "ordering": 1,
+            "nconst": "nm0023107",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6094,
+        "fields": {
+            "tconst": "tt0001184",
+            "ordering": 1,
+            "nconst": "nm0699807",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6095,
+        "fields": {
+            "tconst": "tt0001184",
+            "ordering": 2,
+            "nconst": "nm0735618",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6096,
+        "fields": {
+            "tconst": "tt0001184",
+            "ordering": 3,
+            "nconst": "nm0063413",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6097,
+        "fields": {
+            "tconst": "tt0001184",
+            "ordering": 4,
+            "nconst": "nm0550220",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6098,
+        "fields": {
+            "tconst": "tt0001184",
+            "ordering": 5,
+            "nconst": "nm0049370",
+            "category": "writer",
+            "job": "play",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6099,
+        "fields": {
+            "tconst": "tt0001184",
+            "ordering": 6,
+            "nconst": "nm0063412",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6237,
+        "fields": {
+            "tconst": "tt0001203",
+            "ordering": 1,
+            "nconst": "nm0005717",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6238,
+        "fields": {
+            "tconst": "tt0001203",
+            "ordering": 2,
+            "nconst": "nm0005717",
+            "category": "writer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6239,
+        "fields": {
+            "tconst": "tt0001203",
+            "ordering": 3,
+            "nconst": "nm0005717",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6405,
+        "fields": {
+            "tconst": "tt0001230",
+            "ordering": 1,
+            "nconst": "nm0002503",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6498,
+        "fields": {
+            "tconst": "tt0001240",
+            "ordering": 1,
+            "nconst": "nm0627274",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Hamlet\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6499,
+        "fields": {
+            "tconst": "tt0001240",
+            "ordering": 2,
+            "nconst": "nm0381005",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Claudius\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6500,
+        "fields": {
+            "tconst": "tt0001240",
+            "ordering": 3,
+            "nconst": "nm0478475",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Gertrude\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6501,
+        "fields": {
+            "tconst": "tt0001240",
+            "ordering": 4,
+            "nconst": "nm0762935",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Ophelia\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6502,
+        "fields": {
+            "tconst": "tt0001240",
+            "ordering": 5,
+            "nconst": "nm1267460",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Laertes\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6503,
+        "fields": {
+            "tconst": "tt0001240",
+            "ordering": 6,
+            "nconst": "nm1266292",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Horatio\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6504,
+        "fields": {
+            "tconst": "tt0001240",
+            "ordering": 7,
+            "nconst": "nm0742120",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6505,
+        "fields": {
+            "tconst": "tt0001240",
+            "ordering": 8,
+            "nconst": "nm1266474",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6506,
+        "fields": {
+            "tconst": "tt0001240",
+            "ordering": 9,
+            "nconst": "nm0421945",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6507,
+        "fields": {
+            "tconst": "tt0001240",
+            "ordering": 10,
+            "nconst": "nm0088881",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6508,
+        "fields": {
+            "tconst": "tt0001240",
+            "ordering": 11,
+            "nconst": "nm0000636",
+            "category": "writer",
+            "job": "play",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6555,
+        "fields": {
+            "tconst": "tt0001247",
+            "ordering": 1,
+            "nconst": "nm0294276",
+            "category": "director",
+            "job": "director",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6768,
+        "fields": {
+            "tconst": "tt0001277",
+            "ordering": 1,
+            "nconst": "nm0169878",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Salomon Baadsmand\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6769,
+        "fields": {
+            "tconst": "tt0001277",
+            "ordering": 2,
+            "nconst": "nm0299757",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Landsforr\u00e6der\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6770,
+        "fields": {
+            "tconst": "tt0001277",
+            "ordering": 3,
+            "nconst": "nm0736379",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Ung Jomfru\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6771,
+        "fields": {
+            "tconst": "tt0001277",
+            "ordering": 4,
+            "nconst": "nm0772788",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Kapergasten\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6772,
+        "fields": {
+            "tconst": "tt0001277",
+            "ordering": 5,
+            "nconst": "nm0375839",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6773,
+        "fields": {
+            "tconst": "tt0001277",
+            "ordering": 6,
+            "nconst": "nm0375839",
+            "category": "writer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6774,
+        "fields": {
+            "tconst": "tt0001277",
+            "ordering": 7,
+            "nconst": "nm5190017",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6843,
+        "fields": {
+            "tconst": "tt0001285",
+            "ordering": 1,
+            "nconst": "nm0366742",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Moses\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6844,
+        "fields": {
+            "tconst": "tt0001285",
+            "ordering": 2,
+            "nconst": "nm0037789",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6845,
+        "fields": {
+            "tconst": "tt0001285",
+            "ordering": 3,
+            "nconst": "nm0401967",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6846,
+        "fields": {
+            "tconst": "tt0001285",
+            "ordering": 4,
+            "nconst": "nm0448682",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6847,
+        "fields": {
+            "tconst": "tt0001285",
+            "ordering": 5,
+            "nconst": "nm0832458",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6848,
+        "fields": {
+            "tconst": "tt0001285",
+            "ordering": 6,
+            "nconst": "nm0085865",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6849,
+        "fields": {
+            "tconst": "tt0001285",
+            "ordering": 7,
+            "nconst": "nm0676645",
+            "category": "writer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 6850,
+        "fields": {
+            "tconst": "tt0001285",
+            "ordering": 8,
+            "nconst": "nm0836316",
+            "category": "writer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 7218,
+        "fields": {
+            "tconst": "tt0001338",
+            "ordering": 1,
+            "nconst": "nm0471787",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 7219,
+        "fields": {
+            "tconst": "tt0001338",
+            "ordering": 2,
+            "nconst": "nm0698839",
+            "category": "writer",
+            "job": "screenplay",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 7220,
+        "fields": {
+            "tconst": "tt0001338",
+            "ordering": 3,
+            "nconst": "nm0324690",
+            "category": "writer",
+            "job": "short story",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 7245,
+        "fields": {
+            "tconst": "tt0001341",
+            "ordering": 1,
+            "nconst": "nm1024681",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Tobi\u00e1s\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 7246,
+        "fields": {
+            "tconst": "tt0001341",
+            "ordering": 2,
+            "nconst": "nm0782422",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Oskar\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 7247,
+        "fields": {
+            "tconst": "tt0001341",
+            "ordering": 3,
+            "nconst": "nm0295457",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Lilly\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 7248,
+        "fields": {
+            "tconst": "tt0001341",
+            "ordering": 4,
+            "nconst": "nm0218175",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Landlady\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 7249,
+        "fields": {
+            "tconst": "tt0001341",
+            "ordering": 5,
+            "nconst": "nm0952034",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Forester\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 7250,
+        "fields": {
+            "tconst": "tt0001341",
+            "ordering": 6,
+            "nconst": "nm0468351",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Landlord\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 7251,
+        "fields": {
+            "tconst": "tt0001341",
+            "ordering": 7,
+            "nconst": "nm1024681",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 7252,
+        "fields": {
+            "tconst": "tt0001341",
+            "ordering": 8,
+            "nconst": "nm1024681",
+            "category": "writer",
+            "job": "story",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 7253,
+        "fields": {
+            "tconst": "tt0001341",
+            "ordering": 9,
+            "nconst": "nm0471818",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 7390,
+        "fields": {
+            "tconst": "tt0001364",
+            "ordering": 1,
+            "nconst": "nm0159015",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 7391,
+        "fields": {
+            "tconst": "tt0001364",
+            "ordering": 2,
+            "nconst": "nm0036298",
+            "category": "writer",
+            "job": "play",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 7392,
+        "fields": {
+            "tconst": "tt0001364",
+            "ordering": 3,
+            "nconst": "nm11468708",
+            "category": "writer",
+            "job": "play",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 7393,
+        "fields": {
+            "tconst": "tt0001364",
+            "ordering": 4,
+            "nconst": "nm0159015",
+            "category": "writer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 7394,
+        "fields": {
+            "tconst": "tt0001364",
+            "ordering": 5,
+            "nconst": "nm0159015",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 7405,
+        "fields": {
+            "tconst": "tt0001366",
+            "ordering": 1,
+            "nconst": "nm0159015",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 7406,
+        "fields": {
+            "tconst": "tt0001366",
+            "ordering": 2,
+            "nconst": "nm0159015",
+            "category": "writer",
+            "job": "screenplay",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 7407,
+        "fields": {
+            "tconst": "tt0001366",
+            "ordering": 3,
+            "nconst": "nm0159015",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 7434,
+        "fields": {
+            "tconst": "tt0001370",
+            "ordering": 1,
+            "nconst": "nm0764002",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"D. Pedro I\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 7435,
+        "fields": {
+            "tconst": "tt0001370",
+            "ordering": 2,
+            "nconst": "nm0105501",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"D. Afonso IV\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 7436,
+        "fields": {
+            "tconst": "tt0001370",
+            "ordering": 3,
+            "nconst": "nm0896618",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Ines de Castro\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 7437,
+        "fields": {
+            "tconst": "tt0001370",
+            "ordering": 4,
+            "nconst": "nm0764002",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 7438,
+        "fields": {
+            "tconst": "tt0001370",
+            "ordering": 5,
+            "nconst": "nm0182214",
+            "category": "producer",
+            "job": "producer",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 7512,
+        "fields": {
+            "tconst": "tt0001379",
+            "ordering": 1,
+            "nconst": "nm0294276",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 7536,
+        "fields": {
+            "tconst": "tt0001382",
+            "ordering": 1,
+            "nconst": "nm0182052",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 7566,
+        "fields": {
+            "tconst": "tt0001386",
+            "ordering": 1,
+            "nconst": "nm0304098",
+            "category": "writer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 7872,
+        "fields": {
+            "tconst": "tt0001422",
+            "ordering": 1,
+            "nconst": "nm0001908",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 7873,
+        "fields": {
+            "tconst": "tt0001422",
+            "ordering": 2,
+            "nconst": "nm0001908",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 7874,
+        "fields": {
+            "tconst": "tt0001422",
+            "ordering": 3,
+            "nconst": "nm0001908",
+            "category": "writer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 7875,
+        "fields": {
+            "tconst": "tt0001422",
+            "ordering": 4,
+            "nconst": "nm0001908",
+            "category": "producer",
+            "job": "producer",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8020,
+        "fields": {
+            "tconst": "tt0001440",
+            "ordering": 1,
+            "nconst": "nm0064953",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8021,
+        "fields": {
+            "tconst": "tt0001440",
+            "ordering": 2,
+            "nconst": "nm0085066",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"B\u00f6dvar\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8022,
+        "fields": {
+            "tconst": "tt0001440",
+            "ordering": 3,
+            "nconst": "nm1434907",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Page\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8023,
+        "fields": {
+            "tconst": "tt0001440",
+            "ordering": 4,
+            "nconst": "nm0169878",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Westhard\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8024,
+        "fields": {
+            "tconst": "tt0001440",
+            "ordering": 5,
+            "nconst": "nm0299757",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Valdemar Sejr\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8025,
+        "fields": {
+            "tconst": "tt0001440",
+            "ordering": 6,
+            "nconst": "nm0332028",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8026,
+        "fields": {
+            "tconst": "tt0001440",
+            "ordering": 7,
+            "nconst": "nm0375839",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8027,
+        "fields": {
+            "tconst": "tt0001440",
+            "ordering": 8,
+            "nconst": "nm0539049",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Graf Otto\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8028,
+        "fields": {
+            "tconst": "tt0001440",
+            "ordering": 9,
+            "nconst": "nm0630641",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Dronning Berengaria\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8029,
+        "fields": {
+            "tconst": "tt0001440",
+            "ordering": 10,
+            "nconst": "nm0723663",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8030,
+        "fields": {
+            "tconst": "tt0001440",
+            "ordering": 11,
+            "nconst": "nm0375839",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8031,
+        "fields": {
+            "tconst": "tt0001440",
+            "ordering": 12,
+            "nconst": "nm0375839",
+            "category": "writer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8032,
+        "fields": {
+            "tconst": "tt0001440",
+            "ordering": 13,
+            "nconst": "nm1206972",
+            "category": "writer",
+            "job": "novel",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8033,
+        "fields": {
+            "tconst": "tt0001440",
+            "ordering": 14,
+            "nconst": "nm2150938",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8317,
+        "fields": {
+            "tconst": "tt0001475",
+            "ordering": 1,
+            "nconst": "nm0836458",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8318,
+        "fields": {
+            "tconst": "tt0001475",
+            "ordering": 2,
+            "nconst": "nm1616439",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8319,
+        "fields": {
+            "tconst": "tt0001475",
+            "ordering": 3,
+            "nconst": "nm1617025",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8320,
+        "fields": {
+            "tconst": "tt0001475",
+            "ordering": 4,
+            "nconst": "nm1714653",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8321,
+        "fields": {
+            "tconst": "tt0001475",
+            "ordering": 5,
+            "nconst": "nm0108345",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8322,
+        "fields": {
+            "tconst": "tt0001475",
+            "ordering": 6,
+            "nconst": "nm0108345",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8323,
+        "fields": {
+            "tconst": "tt0001475",
+            "ordering": 7,
+            "nconst": "nm0108345",
+            "category": "writer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8324,
+        "fields": {
+            "tconst": "tt0001475",
+            "ordering": 8,
+            "nconst": "nm0207512",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8433,
+        "fields": {
+            "tconst": "tt0001495",
+            "ordering": 1,
+            "nconst": "nm0294276",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8457,
+        "fields": {
+            "tconst": "tt0001498",
+            "ordering": 1,
+            "nconst": "nm0095809",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Lord Nelson\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8458,
+        "fields": {
+            "tconst": "tt0001498",
+            "ordering": 2,
+            "nconst": "nm0697944",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Lieutenant Prescott\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8459,
+        "fields": {
+            "tconst": "tt0001498",
+            "ordering": 3,
+            "nconst": "nm0330280",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Captain Hardy\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8460,
+        "fields": {
+            "tconst": "tt0001498",
+            "ordering": 4,
+            "nconst": "nm0644728",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"The Ship's Surgeon\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8461,
+        "fields": {
+            "tconst": "tt0001498",
+            "ordering": 5,
+            "nconst": "nm0768187",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Lt. Prescott's Fianc\u00e9e\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8462,
+        "fields": {
+            "tconst": "tt0001498",
+            "ordering": 6,
+            "nconst": "nm1372000",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Undetermined Role\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8463,
+        "fields": {
+            "tconst": "tt0001498",
+            "ordering": 7,
+            "nconst": "nm0205986",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8464,
+        "fields": {
+            "tconst": "tt0001498",
+            "ordering": 8,
+            "nconst": "nm0007239",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8566,
+        "fields": {
+            "tconst": "tt0001515",
+            "ordering": 1,
+            "nconst": "nm0408436",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8660,
+        "fields": {
+            "tconst": "tt0001530",
+            "ordering": 1,
+            "nconst": "nm0738202",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Edgar Dalmore\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8661,
+        "fields": {
+            "tconst": "tt0001530",
+            "ordering": 2,
+            "nconst": "nm0738202",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Captain Midnight\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8662,
+        "fields": {
+            "tconst": "tt0001530",
+            "ordering": 3,
+            "nconst": "nm0198972",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Elsa\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8663,
+        "fields": {
+            "tconst": "tt0001530",
+            "ordering": 4,
+            "nconst": "nm0519315",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8664,
+        "fields": {
+            "tconst": "tt0001530",
+            "ordering": 5,
+            "nconst": "nm0528022",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8665,
+        "fields": {
+            "tconst": "tt0001530",
+            "ordering": 6,
+            "nconst": "nm0738202",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8666,
+        "fields": {
+            "tconst": "tt0001530",
+            "ordering": 7,
+            "nconst": "nm0383382",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8667,
+        "fields": {
+            "tconst": "tt0001531",
+            "ordering": 1,
+            "nconst": "nm0198972",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8668,
+        "fields": {
+            "tconst": "tt0001531",
+            "ordering": 2,
+            "nconst": "nm0528022",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8669,
+        "fields": {
+            "tconst": "tt0001531",
+            "ordering": 3,
+            "nconst": "nm0627427",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8670,
+        "fields": {
+            "tconst": "tt0001531",
+            "ordering": 4,
+            "nconst": "nm0738202",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Captain Starlight\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8671,
+        "fields": {
+            "tconst": "tt0001531",
+            "ordering": 5,
+            "nconst": "nm0909492",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8672,
+        "fields": {
+            "tconst": "tt0001531",
+            "ordering": 6,
+            "nconst": "nm0738202",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8673,
+        "fields": {
+            "tconst": "tt0001531",
+            "ordering": 7,
+            "nconst": "nm0092809",
+            "category": "writer",
+            "job": "novel \"Robbery Under Arms\"",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8674,
+        "fields": {
+            "tconst": "tt0001531",
+            "ordering": 8,
+            "nconst": "nm1010943",
+            "category": "writer",
+            "job": "play",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8675,
+        "fields": {
+            "tconst": "tt0001531",
+            "ordering": 9,
+            "nconst": "nm1014629",
+            "category": "producer",
+            "job": "producer",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 8676,
+        "fields": {
+            "tconst": "tt0001531",
+            "ordering": 10,
+            "nconst": "nm0383382",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9023,
+        "fields": {
+            "tconst": "tt0001586",
+            "ordering": 1,
+            "nconst": "nm0681933",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9024,
+        "fields": {
+            "tconst": "tt0001586",
+            "ordering": 2,
+            "nconst": "nm0408436",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9058,
+        "fields": {
+            "tconst": "tt0001592",
+            "ordering": 1,
+            "nconst": "nm0690702",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Ebba\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9059,
+        "fields": {
+            "tconst": "tt0001592",
+            "ordering": 2,
+            "nconst": "nm0690702",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Sophie\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9060,
+        "fields": {
+            "tconst": "tt0001592",
+            "ordering": 3,
+            "nconst": "nm0740463",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Geheimraaden\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9061,
+        "fields": {
+            "tconst": "tt0001592",
+            "ordering": 4,
+            "nconst": "nm0740463",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Geheimrat\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9062,
+        "fields": {
+            "tconst": "tt0001592",
+            "ordering": 5,
+            "nconst": "nm0927690",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Sohn Edgar\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9063,
+        "fields": {
+            "tconst": "tt0001592",
+            "ordering": 6,
+            "nconst": "nm0478475",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Geheimratsehefrau\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9064,
+        "fields": {
+            "tconst": "tt0001592",
+            "ordering": 7,
+            "nconst": "nm0676978",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Lily\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9065,
+        "fields": {
+            "tconst": "tt0001592",
+            "ordering": 8,
+            "nconst": "nm0647719",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Laege\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9066,
+        "fields": {
+            "tconst": "tt0001592",
+            "ordering": 9,
+            "nconst": "nm1532213",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9067,
+        "fields": {
+            "tconst": "tt0001592",
+            "ordering": 10,
+            "nconst": "nm1458590",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9068,
+        "fields": {
+            "tconst": "tt0001592",
+            "ordering": 11,
+            "nconst": "nm0088881",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9069,
+        "fields": {
+            "tconst": "tt0001592",
+            "ordering": 12,
+            "nconst": "nm0491503",
+            "category": "writer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9142,
+        "fields": {
+            "tconst": "tt0001602",
+            "ordering": 1,
+            "nconst": "nm0136241",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9143,
+        "fields": {
+            "tconst": "tt0001602",
+            "ordering": 2,
+            "nconst": "nm0216941",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9144,
+        "fields": {
+            "tconst": "tt0001602",
+            "ordering": 3,
+            "nconst": "nm0239263",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9145,
+        "fields": {
+            "tconst": "tt0001602",
+            "ordering": 4,
+            "nconst": "nm0260771",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9146,
+        "fields": {
+            "tconst": "tt0001602",
+            "ordering": 5,
+            "nconst": "nm0312146",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9147,
+        "fields": {
+            "tconst": "tt0001602",
+            "ordering": 6,
+            "nconst": "nm0328322",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9148,
+        "fields": {
+            "tconst": "tt0001602",
+            "ordering": 7,
+            "nconst": "nm0728158",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9149,
+        "fields": {
+            "tconst": "tt0001602",
+            "ordering": 8,
+            "nconst": "nm0739190",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9150,
+        "fields": {
+            "tconst": "tt0001602",
+            "ordering": 9,
+            "nconst": "nm0957985",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9151,
+        "fields": {
+            "tconst": "tt0001602",
+            "ordering": 10,
+            "nconst": "nm0118272",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9152,
+        "fields": {
+            "tconst": "tt0001602",
+            "ordering": 11,
+            "nconst": "nm0736464",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9153,
+        "fields": {
+            "tconst": "tt0001602",
+            "ordering": 12,
+            "nconst": "nm0736464",
+            "category": "writer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9154,
+        "fields": {
+            "tconst": "tt0001602",
+            "ordering": 13,
+            "nconst": "nm0037414",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9155,
+        "fields": {
+            "tconst": "tt0001603",
+            "ordering": 1,
+            "nconst": "nm5239866",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Liljan\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9156,
+        "fields": {
+            "tconst": "tt0001603",
+            "ordering": 2,
+            "nconst": "nm0227602",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Erik\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9157,
+        "fields": {
+            "tconst": "tt0001603",
+            "ordering": 3,
+            "nconst": "nm0511223",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Peter\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9158,
+        "fields": {
+            "tconst": "tt0001603",
+            "ordering": 4,
+            "nconst": "nm0512539",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"S. Petersen\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9159,
+        "fields": {
+            "tconst": "tt0001603",
+            "ordering": 5,
+            "nconst": "nm0583207",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Johannes von Falck\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9160,
+        "fields": {
+            "tconst": "tt0001603",
+            "ordering": 6,
+            "nconst": "nm5239860",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Anitta\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9161,
+        "fields": {
+            "tconst": "tt0001603",
+            "ordering": 7,
+            "nconst": "nm0927374",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Mrs. Petersen\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9162,
+        "fields": {
+            "tconst": "tt0001603",
+            "ordering": 8,
+            "nconst": "nm5239890",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Gram\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9163,
+        "fields": {
+            "tconst": "tt0001603",
+            "ordering": 9,
+            "nconst": "nm0511155",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9164,
+        "fields": {
+            "tconst": "tt0001603",
+            "ordering": 10,
+            "nconst": "nm0406094",
+            "category": "writer",
+            "job": "writer",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9165,
+        "fields": {
+            "tconst": "tt0001603",
+            "ordering": 11,
+            "nconst": "nm0511155",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9166,
+        "fields": {
+            "tconst": "tt0001604",
+            "ordering": 1,
+            "nconst": "nm0519315",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Howard Wilson\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9167,
+        "fields": {
+            "tconst": "tt0001604",
+            "ordering": 2,
+            "nconst": "nm0898785",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Robert Curtis\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9168,
+        "fields": {
+            "tconst": "tt0001604",
+            "ordering": 3,
+            "nconst": "nm0181848",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Toto\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9169,
+        "fields": {
+            "tconst": "tt0001604",
+            "ordering": 4,
+            "nconst": "nm0767685",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Peter Schwartz\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9170,
+        "fields": {
+            "tconst": "tt0001604",
+            "ordering": 5,
+            "nconst": "nm0254852",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Constable O'Reilly\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9171,
+        "fields": {
+            "tconst": "tt0001604",
+            "ordering": 6,
+            "nconst": "nm0376556",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Reverend Dr. Lanceford\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9172,
+        "fields": {
+            "tconst": "tt0001604",
+            "ordering": 7,
+            "nconst": "nm0528022",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Mabel Wilson\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9173,
+        "fields": {
+            "tconst": "tt0001604",
+            "ordering": 8,
+            "nconst": "nm0163519",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Cora Williams\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9174,
+        "fields": {
+            "tconst": "tt0001604",
+            "ordering": 9,
+            "nconst": "nm0272340",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Bridget\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9175,
+        "fields": {
+            "tconst": "tt0001604",
+            "ordering": 10,
+            "nconst": "nm0719681",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Jessie\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9176,
+        "fields": {
+            "tconst": "tt0001604",
+            "ordering": 11,
+            "nconst": "nm0519315",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9177,
+        "fields": {
+            "tconst": "tt0001604",
+            "ordering": 12,
+            "nconst": "nm1360020",
+            "category": "writer",
+            "job": "original play",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9178,
+        "fields": {
+            "tconst": "tt0001604",
+            "ordering": 13,
+            "nconst": "nm0519315",
+            "category": "writer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9179,
+        "fields": {
+            "tconst": "tt0001604",
+            "ordering": 14,
+            "nconst": "nm1014629",
+            "category": "producer",
+            "job": "producer",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9180,
+        "fields": {
+            "tconst": "tt0001604",
+            "ordering": 15,
+            "nconst": "nm0383329",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9230,
+        "fields": {
+            "tconst": "tt0001614",
+            "ordering": 1,
+            "nconst": "nm0227602",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Fritz\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9231,
+        "fields": {
+            "tconst": "tt0001614",
+            "ordering": 2,
+            "nconst": "nm0119164",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Aimee\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9232,
+        "fields": {
+            "tconst": "tt0001614",
+            "ordering": 3,
+            "nconst": "nm0160233",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Louise\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9233,
+        "fields": {
+            "tconst": "tt0001614",
+            "ordering": 4,
+            "nconst": "nm0742120",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Adolphe\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9234,
+        "fields": {
+            "tconst": "tt0001614",
+            "ordering": 5,
+            "nconst": "nm0934709",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Grevinde Lucy Taube\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9235,
+        "fields": {
+            "tconst": "tt0001614",
+            "ordering": 6,
+            "nconst": "nm0742127",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Fa er Cecchi\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9236,
+        "fields": {
+            "tconst": "tt0001614",
+            "ordering": 7,
+            "nconst": "nm0511155",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9237,
+        "fields": {
+            "tconst": "tt0001614",
+            "ordering": 8,
+            "nconst": "nm12738281",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Zirkusdirektor\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9238,
+        "fields": {
+            "tconst": "tt0001614",
+            "ordering": 9,
+            "nconst": "nm0381005",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Grev Taube\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9239,
+        "fields": {
+            "tconst": "tt0001614",
+            "ordering": 10,
+            "nconst": "nm0486791",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9240,
+        "fields": {
+            "tconst": "tt0001614",
+            "ordering": 11,
+            "nconst": "nm1003261",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9241,
+        "fields": {
+            "tconst": "tt0001614",
+            "ordering": 12,
+            "nconst": "nm0227602",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9242,
+        "fields": {
+            "tconst": "tt0001614",
+            "ordering": 13,
+            "nconst": "nm0511155",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9243,
+        "fields": {
+            "tconst": "tt0001614",
+            "ordering": 14,
+            "nconst": "nm0742120",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9244,
+        "fields": {
+            "tconst": "tt0001614",
+            "ordering": 15,
+            "nconst": "nm0051911",
+            "category": "writer",
+            "job": "story \"Les quatres diables\"",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9245,
+        "fields": {
+            "tconst": "tt0001614",
+            "ordering": 16,
+            "nconst": "nm0742120",
+            "category": "writer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9246,
+        "fields": {
+            "tconst": "tt0001614",
+            "ordering": 17,
+            "nconst": "nm0511155",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9247,
+        "fields": {
+            "tconst": "tt0001614",
+            "ordering": 18,
+            "nconst": "nm0511155",
+            "category": "editor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9333,
+        "fields": {
+            "tconst": "tt0001628",
+            "ordering": 1,
+            "nconst": "nm0848232",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9341,
+        "fields": {
+            "tconst": "tt0001630",
+            "ordering": 1,
+            "nconst": "nm0003425",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Miss May\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9342,
+        "fields": {
+            "tconst": "tt0001630",
+            "ordering": 2,
+            "nconst": "nm0585785",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Sir John Wolton\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9343,
+        "fields": {
+            "tconst": "tt0001630",
+            "ordering": 3,
+            "nconst": "nm1270556",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Miss Hobbs\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9344,
+        "fields": {
+            "tconst": "tt0001630",
+            "ordering": 4,
+            "nconst": "nm0707778",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Mr. Herbert Bruce\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9345,
+        "fields": {
+            "tconst": "tt0001630",
+            "ordering": 5,
+            "nconst": "nm0166547",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Max\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9346,
+        "fields": {
+            "tconst": "tt0001630",
+            "ordering": 6,
+            "nconst": "nm1495634",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Maxs Braut Grete\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9347,
+        "fields": {
+            "tconst": "tt0001630",
+            "ordering": 7,
+            "nconst": "nm0473134",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9348,
+        "fields": {
+            "tconst": "tt0001630",
+            "ordering": 8,
+            "nconst": "nm0631025",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Stubenm\u00e4dchen Mizi\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9349,
+        "fields": {
+            "tconst": "tt0001630",
+            "ordering": 9,
+            "nconst": "nm0300487",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9350,
+        "fields": {
+            "tconst": "tt0001630",
+            "ordering": 10,
+            "nconst": "nm0300487",
+            "category": "writer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9351,
+        "fields": {
+            "tconst": "tt0001630",
+            "ordering": 11,
+            "nconst": "nm0005869",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9441,
+        "fields": {
+            "tconst": "tt0001648",
+            "ordering": 1,
+            "nconst": "nm0949565",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9442,
+        "fields": {
+            "tconst": "tt0001648",
+            "ordering": 2,
+            "nconst": "nm0672885",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9820,
+        "fields": {
+            "tconst": "tt0001706",
+            "ordering": 1,
+            "nconst": "nm0001908",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Broncho Billy\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9821,
+        "fields": {
+            "tconst": "tt0001706",
+            "ordering": 2,
+            "nconst": "nm0138771",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9822,
+        "fields": {
+            "tconst": "tt0001706",
+            "ordering": 3,
+            "nconst": "nm0865178",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9823,
+        "fields": {
+            "tconst": "tt0001706",
+            "ordering": 4,
+            "nconst": "nm0693055",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9824,
+        "fields": {
+            "tconst": "tt0001706",
+            "ordering": 5,
+            "nconst": "nm0639631",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9825,
+        "fields": {
+            "tconst": "tt0001706",
+            "ordering": 6,
+            "nconst": "nm0533615",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9826,
+        "fields": {
+            "tconst": "tt0001706",
+            "ordering": 7,
+            "nconst": "nm0001908",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9827,
+        "fields": {
+            "tconst": "tt0001706",
+            "ordering": 8,
+            "nconst": "nm0001908",
+            "category": "writer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9828,
+        "fields": {
+            "tconst": "tt0001706",
+            "ordering": 9,
+            "nconst": "nm0001908",
+            "category": "producer",
+            "job": "producer",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9862,
+        "fields": {
+            "tconst": "tt0001711",
+            "ordering": 1,
+            "nconst": "nm0009872",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9863,
+        "fields": {
+            "tconst": "tt0001711",
+            "ordering": 2,
+            "nconst": "nm0002161",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9864,
+        "fields": {
+            "tconst": "tt0001711",
+            "ordering": 3,
+            "nconst": "nm0166433",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9865,
+        "fields": {
+            "tconst": "tt0001711",
+            "ordering": 4,
+            "nconst": "nm0179557",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9866,
+        "fields": {
+            "tconst": "tt0001711",
+            "ordering": 5,
+            "nconst": "nm0723801",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9867,
+        "fields": {
+            "tconst": "tt0001711",
+            "ordering": 6,
+            "nconst": "nm1356916",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9868,
+        "fields": {
+            "tconst": "tt0001711",
+            "ordering": 7,
+            "nconst": "nm0388674",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9869,
+        "fields": {
+            "tconst": "tt0001711",
+            "ordering": 8,
+            "nconst": "nm0388674",
+            "category": "writer",
+            "job": "screenplay",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9870,
+        "fields": {
+            "tconst": "tt0001711",
+            "ordering": 9,
+            "nconst": "nm0582268",
+            "category": "producer",
+            "job": "producer",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9871,
+        "fields": {
+            "tconst": "tt0001711",
+            "ordering": 10,
+            "nconst": "nm0372992",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9872,
+        "fields": {
+            "tconst": "tt0001712",
+            "ordering": 1,
+            "nconst": "nm0054884",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Jane Shore\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9873,
+        "fields": {
+            "tconst": "tt0001712",
+            "ordering": 2,
+            "nconst": "nm0288616",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9874,
+        "fields": {
+            "tconst": "tt0001712",
+            "ordering": 3,
+            "nconst": "nm1071095",
+            "category": "writer",
+            "job": "play",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9890,
+        "fields": {
+            "tconst": "tt0001716",
+            "ordering": 1,
+            "nconst": "nm0294276",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9964,
+        "fields": {
+            "tconst": "tt0001731",
+            "ordering": 1,
+            "nconst": "nm0198972",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9965,
+        "fields": {
+            "tconst": "tt0001731",
+            "ordering": 2,
+            "nconst": "nm0519315",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Gabbett\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9966,
+        "fields": {
+            "tconst": "tt0001731",
+            "ordering": 3,
+            "nconst": "nm0528022",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9967,
+        "fields": {
+            "tconst": "tt0001731",
+            "ordering": 4,
+            "nconst": "nm0627427",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9968,
+        "fields": {
+            "tconst": "tt0001731",
+            "ordering": 5,
+            "nconst": "nm0738202",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Rufus Dawes\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9969,
+        "fields": {
+            "tconst": "tt0001731",
+            "ordering": 6,
+            "nconst": "nm0909492",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9970,
+        "fields": {
+            "tconst": "tt0001731",
+            "ordering": 7,
+            "nconst": "nm0738202",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9971,
+        "fields": {
+            "tconst": "tt0001731",
+            "ordering": 8,
+            "nconst": "nm0164888",
+            "category": "writer",
+            "job": "novel \"For the Term of His Natural Life\"",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9972,
+        "fields": {
+            "tconst": "tt0001731",
+            "ordering": 9,
+            "nconst": "nm0738202",
+            "category": "writer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9973,
+        "fields": {
+            "tconst": "tt0001731",
+            "ordering": 10,
+            "nconst": "nm16380220",
+            "category": "writer",
+            "job": "stage play adaptation",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 9974,
+        "fields": {
+            "tconst": "tt0001731",
+            "ordering": 11,
+            "nconst": "nm0383382",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10112,
+        "fields": {
+            "tconst": "tt0001756",
+            "ordering": 1,
+            "nconst": "nm0034454",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10113,
+        "fields": {
+            "tconst": "tt0001756",
+            "ordering": 2,
+            "nconst": "nm0034548",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10114,
+        "fields": {
+            "tconst": "tt0001756",
+            "ordering": 3,
+            "nconst": "nm0679170",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10115,
+        "fields": {
+            "tconst": "tt0001756",
+            "ordering": 4,
+            "nconst": "nm0688764",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10116,
+        "fields": {
+            "tconst": "tt0001756",
+            "ordering": 5,
+            "nconst": "nm0764534",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10117,
+        "fields": {
+            "tconst": "tt0001756",
+            "ordering": 6,
+            "nconst": "nm1255834",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10118,
+        "fields": {
+            "tconst": "tt0001756",
+            "ordering": 7,
+            "nconst": "nm0005717",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10119,
+        "fields": {
+            "tconst": "tt0001756",
+            "ordering": 8,
+            "nconst": "nm0611814",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10120,
+        "fields": {
+            "tconst": "tt0001756",
+            "ordering": 9,
+            "nconst": "nm0005717",
+            "category": "writer",
+            "job": "screenplay",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10121,
+        "fields": {
+            "tconst": "tt0001756",
+            "ordering": 10,
+            "nconst": "nm0611814",
+            "category": "writer",
+            "job": "screenplay",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10122,
+        "fields": {
+            "tconst": "tt0001756",
+            "ordering": 11,
+            "nconst": "nm0005717",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10174,
+        "fields": {
+            "tconst": "tt0001764",
+            "ordering": 1,
+            "nconst": "nm0023107",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10275,
+        "fields": {
+            "tconst": "tt0001778",
+            "ordering": 1,
+            "nconst": "nm0742633",
+            "category": "writer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10308,
+        "fields": {
+            "tconst": "tt0001785",
+            "ordering": 1,
+            "nconst": "nm0738202",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10339,
+        "fields": {
+            "tconst": "tt0001790",
+            "ordering": 1,
+            "nconst": "nm0470307",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Jean Valjean\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10340,
+        "fields": {
+            "tconst": "tt0001790",
+            "ordering": 2,
+            "nconst": "nm0959921",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Javert\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10341,
+        "fields": {
+            "tconst": "tt0001790",
+            "ordering": 3,
+            "nconst": "nm0893346",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Fantine Th\u00e9nardier\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10342,
+        "fields": {
+            "tconst": "tt0001790",
+            "ordering": 4,
+            "nconst": "nm0592965",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"\u00c9ponine Th\u00e9nardier\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10343,
+        "fields": {
+            "tconst": "tt0001790",
+            "ordering": 5,
+            "nconst": "nm0296344",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Cosette\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10344,
+        "fields": {
+            "tconst": "tt0001790",
+            "ordering": 6,
+            "nconst": "nm0336414",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Marius\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10345,
+        "fields": {
+            "tconst": "tt0001790",
+            "ordering": 7,
+            "nconst": "nm0617041",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Monsieur Th\u00e9nardier\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10346,
+        "fields": {
+            "tconst": "tt0001790",
+            "ordering": 8,
+            "nconst": "nm0719778",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Madame Th\u00e9nardier\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10347,
+        "fields": {
+            "tconst": "tt0001790",
+            "ordering": 9,
+            "nconst": "nm0029671",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Enjolras\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10348,
+        "fields": {
+            "tconst": "tt0001790",
+            "ordering": 10,
+            "nconst": "nm2416993",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Un gendarme \u00e0 cheval\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10349,
+        "fields": {
+            "tconst": "tt0001790",
+            "ordering": 11,
+            "nconst": "nm0135052",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10350,
+        "fields": {
+            "tconst": "tt0001790",
+            "ordering": 12,
+            "nconst": "nm0135053",
+            "category": "writer",
+            "job": "adaptation",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10351,
+        "fields": {
+            "tconst": "tt0001790",
+            "ordering": 13,
+            "nconst": "nm0401076",
+            "category": "writer",
+            "job": "novel",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10352,
+        "fields": {
+            "tconst": "tt0001790",
+            "ordering": 14,
+            "nconst": "nm0213989",
+            "category": "producer",
+            "job": "producer",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10353,
+        "fields": {
+            "tconst": "tt0001790",
+            "ordering": 15,
+            "nconst": "nm0286189",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10354,
+        "fields": {
+            "tconst": "tt0001790",
+            "ordering": 16,
+            "nconst": "nm1761548",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10394,
+        "fields": {
+            "tconst": "tt0001803",
+            "ordering": 1,
+            "nconst": "nm13903996",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10395,
+        "fields": {
+            "tconst": "tt0001803",
+            "ordering": 2,
+            "nconst": "nm0511143",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10396,
+        "fields": {
+            "tconst": "tt0001803",
+            "ordering": 3,
+            "nconst": "nm0401744",
+            "category": "writer",
+            "job": "novel",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10397,
+        "fields": {
+            "tconst": "tt0001803",
+            "ordering": 4,
+            "nconst": "nm0675239",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10439,
+        "fields": {
+            "tconst": "tt0001812",
+            "ordering": 1,
+            "nconst": "nm0207207",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Iocasta\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10440,
+        "fields": {
+            "tconst": "tt0001812",
+            "ordering": 2,
+            "nconst": "nm0294276",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Oedipus\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10441,
+        "fields": {
+            "tconst": "tt0001812",
+            "ordering": 3,
+            "nconst": "nm0294276",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10442,
+        "fields": {
+            "tconst": "tt0001812",
+            "ordering": 4,
+            "nconst": "nm0814668",
+            "category": "writer",
+            "job": "play",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10928,
+        "fields": {
+            "tconst": "tt0001889",
+            "ordering": 1,
+            "nconst": "nm0143865",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Jeanne his Wife\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10929,
+        "fields": {
+            "tconst": "tt0001889",
+            "ordering": 2,
+            "nconst": "nm0159725",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Ravaud, blind organist\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10930,
+        "fields": {
+            "tconst": "tt0001889",
+            "ordering": 3,
+            "nconst": "nm0483943",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Ali Baba\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10931,
+        "fields": {
+            "tconst": "tt0001889",
+            "ordering": 4,
+            "nconst": "nm0539045",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Ravauds Daughter\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10932,
+        "fields": {
+            "tconst": "tt0001889",
+            "ordering": 5,
+            "nconst": "nm0742120",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10933,
+        "fields": {
+            "tconst": "tt0001889",
+            "ordering": 6,
+            "nconst": "nm2542283",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10934,
+        "fields": {
+            "tconst": "tt0001889",
+            "ordering": 7,
+            "nconst": "nm0772797",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10935,
+        "fields": {
+            "tconst": "tt0001889",
+            "ordering": 8,
+            "nconst": "nm0727484",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10936,
+        "fields": {
+            "tconst": "tt0001889",
+            "ordering": 9,
+            "nconst": "nm0727484",
+            "category": "writer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10937,
+        "fields": {
+            "tconst": "tt0001889",
+            "ordering": 10,
+            "nconst": "nm0742120",
+            "category": "writer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10953,
+        "fields": {
+            "tconst": "tt0001892",
+            "ordering": 1,
+            "nconst": "nm0003425",
+            "category": "actress",
+            "job": null,
+            "characters": "[\"Stella\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10954,
+        "fields": {
+            "tconst": "tt0001892",
+            "ordering": 2,
+            "nconst": "nm0699637",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Grev Johan Waldberg\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10955,
+        "fields": {
+            "tconst": "tt0001892",
+            "ordering": 3,
+            "nconst": "nm0375839",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Hofjuveler A. Hirsch\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10956,
+        "fields": {
+            "tconst": "tt0001892",
+            "ordering": 4,
+            "nconst": "nm0016799",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10957,
+        "fields": {
+            "tconst": "tt0001892",
+            "ordering": 5,
+            "nconst": "nm0282348",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10958,
+        "fields": {
+            "tconst": "tt0001892",
+            "ordering": 6,
+            "nconst": "nm2325688",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10959,
+        "fields": {
+            "tconst": "tt0001892",
+            "ordering": 7,
+            "nconst": "nm1547973",
+            "category": "actor",
+            "job": null,
+            "characters": "[\"Cirkustjener\"]"
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10960,
+        "fields": {
+            "tconst": "tt0001892",
+            "ordering": 8,
+            "nconst": "nm0271140",
+            "category": "actress",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10961,
+        "fields": {
+            "tconst": "tt0001892",
+            "ordering": 9,
+            "nconst": "nm0280765",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10962,
+        "fields": {
+            "tconst": "tt0001892",
+            "ordering": 10,
+            "nconst": "nm0298614",
+            "category": "actor",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10963,
+        "fields": {
+            "tconst": "tt0001892",
+            "ordering": 11,
+            "nconst": "nm0300487",
+            "category": "director",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10964,
+        "fields": {
+            "tconst": "tt0001892",
+            "ordering": 12,
+            "nconst": "nm0300487",
+            "category": "writer",
+            "job": "screenplay",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10965,
+        "fields": {
+            "tconst": "tt0001892",
+            "ordering": 13,
+            "nconst": "nm2131092",
+            "category": "writer",
+            "job": "screenplay",
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10966,
+        "fields": {
+            "tconst": "tt0001892",
+            "ordering": 14,
+            "nconst": "nm0423762",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    },
+    {
+        "model": "miapp.titleprincipals",
+        "pk": 10967,
+        "fields": {
+            "tconst": "tt0001892",
+            "ordering": 15,
+            "nconst": "nm0005869",
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+        }
+    }
+]

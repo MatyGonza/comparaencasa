@@ -1,0 +1,6 @@
+Django==3.2.25
+psycopg2-binary
+python-dotenv
+djangorestframework
+django-cors-headers
+gunicorn==23.0.0

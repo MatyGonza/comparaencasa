@@ -1,0 +1,1239 @@
+[
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0000009",
+        "fields": {
+            "directors": [
+                "nm0085156"
+            ],
+            "writers": [
+                "nm0085156"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0000147",
+        "fields": {
+            "directors": [
+                "nm0714557"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0000502",
+        "fields": {
+            "directors": [
+                "nm0063413"
+            ],
+            "writers": [
+                "nm0063413",
+                "nm0657268",
+                "nm0675388"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0000574",
+        "fields": {
+            "directors": [
+                "nm0846879"
+            ],
+            "writers": [
+                "nm0846879"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0000591",
+        "fields": {
+            "directors": [
+                "nm0141150"
+            ],
+            "writers": [
+                "nm0141150"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0000615",
+        "fields": {
+            "directors": [
+                "nm0533958"
+            ],
+            "writers": [
+                "nm0092809",
+                "nm0533958"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0000630",
+        "fields": {
+            "directors": [
+                "nm0143333"
+            ],
+            "writers": [
+                "nm0000636"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0000675",
+        "fields": {
+            "directors": [
+                "nm0194088"
+            ],
+            "writers": [
+                "nm0148859"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0000679",
+        "fields": {
+            "directors": [
+                "nm0091767",
+                "nm0877783"
+            ],
+            "writers": [
+                "nm0000875",
+                "nm0877783"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0000838",
+        "fields": {
+            "directors": [
+                "nm0017074"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0000842",
+        "fields": {
+            "directors": [
+                "nm0005717"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0000846",
+        "fields": {
+            "directors": [
+                "nm0023107"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0000850",
+        "fields": {
+            "directors": [
+                "nm0063413",
+                "nm0550220"
+            ],
+            "writers": [
+                "nm0063413",
+                "nm0550220"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0000859",
+        "fields": {
+            "directors": [
+                "nm0005717"
+            ],
+            "writers": [
+                "nm0005717"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0000862",
+        "fields": {
+            "directors": [
+                "nm0878467"
+            ],
+            "writers": [
+                "nm0957652"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0000867",
+        "fields": {
+            "directors": [
+                "nm0023107"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0000868",
+        "fields": {
+            "directors": [
+                "nm0005717"
+            ],
+            "writers": [
+                "nm0005717"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0000869",
+        "fields": {
+            "directors": [
+                "nm0005717"
+            ],
+            "writers": [
+                "nm0005717"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0000879",
+        "fields": {
+            "directors": [
+                "nm0023107"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0000886",
+        "fields": {
+            "directors": [
+                "nm0099901"
+            ],
+            "writers": [
+                "nm0000636"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0000941",
+        "fields": {
+            "directors": [
+                "nm0063413",
+                "nm0550220"
+            ],
+            "writers": [
+                "nm0063413",
+                "nm0550220",
+                "nm0848502"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0000947",
+        "fields": {
+            "directors": [
+                "\\N"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0000959",
+        "fields": {
+            "directors": [
+                "nm0185426"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0000984",
+        "fields": {
+            "directors": [
+                "nm0023107"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001007",
+        "fields": {
+            "directors": [
+                "nm0185426"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001010",
+        "fields": {
+            "directors": [
+                "nm0185426"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001028",
+        "fields": {
+            "directors": [
+                "nm0294276"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001038",
+        "fields": {
+            "directors": [
+                "\\N"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001043",
+        "fields": {
+            "directors": [
+                "nm0294276"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001049",
+        "fields": {
+            "directors": [
+                "nm0022607"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001051",
+        "fields": {
+            "directors": [
+                "nm0063413",
+                "nm0550220"
+            ],
+            "writers": [
+                "nm0063413",
+                "nm0550220"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001059",
+        "fields": {
+            "directors": [
+                "nm0826298"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001069",
+        "fields": {
+            "directors": [
+                "nm0185426"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001080",
+        "fields": {
+            "directors": [
+                "nm0294276"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001081",
+        "fields": {
+            "directors": [
+                "nm0185426"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001082",
+        "fields": {
+            "directors": [
+                "nm0023107"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001101",
+        "fields": {
+            "directors": [
+                "nm0923603"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001109",
+        "fields": {
+            "directors": [
+                "\\N"
+            ],
+            "writers": [
+                "nm0304098"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001112",
+        "fields": {
+            "directors": [
+                "nm0143333"
+            ],
+            "writers": [
+                "nm0000636"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001113",
+        "fields": {
+            "directors": [
+                "nm0159015"
+            ],
+            "writers": [
+                "nm0159015"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001115",
+        "fields": {
+            "directors": [
+                "nm0375839"
+            ],
+            "writers": [
+                "nm0306604"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001116",
+        "fields": {
+            "directors": [
+                "nm0375839"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001122",
+        "fields": {
+            "directors": [
+                "nm0605942"
+            ],
+            "writers": [
+                "nm0304098",
+                "nm0051304"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001141",
+        "fields": {
+            "directors": [
+                "nm0666972"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001142",
+        "fields": {
+            "directors": [
+                "nm0294276"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001147",
+        "fields": {
+            "directors": [
+                "\\N"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001159",
+        "fields": {
+            "directors": [
+                "\\N"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001163",
+        "fields": {
+            "directors": [
+                "\\N"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001175",
+        "fields": {
+            "directors": [
+                "nm0130633",
+                "nm0580197",
+                "nm0693516"
+            ],
+            "writers": [
+                "nm0241414",
+                "nm0693516"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001179",
+        "fields": {
+            "directors": [
+                "nm0023107"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001184",
+        "fields": {
+            "directors": [
+                "nm0063413",
+                "nm0550220"
+            ],
+            "writers": [
+                "nm0049370"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001203",
+        "fields": {
+            "directors": [
+                "nm0005717"
+            ],
+            "writers": [
+                "nm0005717"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001230",
+        "fields": {
+            "directors": [
+                "\\N"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001240",
+        "fields": {
+            "directors": [
+                "nm0088881"
+            ],
+            "writers": [
+                "nm0000636"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001247",
+        "fields": {
+            "directors": [
+                "nm0294276"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001277",
+        "fields": {
+            "directors": [
+                "nm0375839",
+                "nm0169878"
+            ],
+            "writers": [
+                "nm0375839"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001285",
+        "fields": {
+            "directors": [
+                "nm0085865"
+            ],
+            "writers": [
+                "nm0676645",
+                "nm0836316"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001338",
+        "fields": {
+            "directors": [
+                "nm0471787"
+            ],
+            "writers": [
+                "nm0698839",
+                "nm0324690"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001341",
+        "fields": {
+            "directors": [
+                "nm1024681"
+            ],
+            "writers": [
+                "nm1024681"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001348",
+        "fields": {
+            "directors": [
+                "\\N"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001359",
+        "fields": {
+            "directors": [
+                "\\N"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001364",
+        "fields": {
+            "directors": [
+                "nm0159015"
+            ],
+            "writers": [
+                "nm0036298",
+                "nm11468708",
+                "nm0159015"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001366",
+        "fields": {
+            "directors": [
+                "nm0159015"
+            ],
+            "writers": [
+                "nm0159015"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001370",
+        "fields": {
+            "directors": [
+                "nm0764002"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001379",
+        "fields": {
+            "directors": [
+                "nm0294276"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001382",
+        "fields": {
+            "directors": [
+                "nm0182052"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001386",
+        "fields": {
+            "directors": [
+                "\\N"
+            ],
+            "writers": [
+                "nm0304098"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001422",
+        "fields": {
+            "directors": [
+                "nm0001908"
+            ],
+            "writers": [
+                "nm0001908"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001440",
+        "fields": {
+            "directors": [
+                "nm0375839"
+            ],
+            "writers": [
+                "nm0375839",
+                "nm1206972"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001465",
+        "fields": {
+            "directors": [
+                "\\N"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001475",
+        "fields": {
+            "directors": [
+                "nm0108345"
+            ],
+            "writers": [
+                "nm0108345"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001495",
+        "fields": {
+            "directors": [
+                "nm0294276"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001498",
+        "fields": {
+            "directors": [
+                "nm0205986"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001515",
+        "fields": {
+            "directors": [
+                "nm0408436"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001530",
+        "fields": {
+            "directors": [
+                "nm0738202"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001531",
+        "fields": {
+            "directors": [
+                "nm0738202"
+            ],
+            "writers": [
+                "nm0092809",
+                "nm1010943"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001555",
+        "fields": {
+            "directors": [
+                "\\N"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001586",
+        "fields": {
+            "directors": [
+                "nm0408436"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001592",
+        "fields": {
+            "directors": [
+                "nm0088881"
+            ],
+            "writers": [
+                "nm0491503"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001602",
+        "fields": {
+            "directors": [
+                "nm0118272",
+                "nm0736464"
+            ],
+            "writers": [
+                "nm0736464"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001603",
+        "fields": {
+            "directors": [
+                "nm0511155"
+            ],
+            "writers": [
+                "nm0406094"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001604",
+        "fields": {
+            "directors": [
+                "nm0519315"
+            ],
+            "writers": [
+                "nm1360020",
+                "nm0519315"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001614",
+        "fields": {
+            "directors": [
+                "nm1003261",
+                "nm0227602",
+                "nm0511155",
+                "nm0742120"
+            ],
+            "writers": [
+                "nm0051911",
+                "nm0742120"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001628",
+        "fields": {
+            "directors": [
+                "\\N"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001630",
+        "fields": {
+            "directors": [
+                "nm0300487"
+            ],
+            "writers": [
+                "nm0300487"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001648",
+        "fields": {
+            "directors": [
+                "nm0949565"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001706",
+        "fields": {
+            "directors": [
+                "nm0001908"
+            ],
+            "writers": [
+                "nm0001908"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001711",
+        "fields": {
+            "directors": [
+                "nm0388674"
+            ],
+            "writers": [
+                "nm0388674"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001712",
+        "fields": {
+            "directors": [
+                "nm0288616"
+            ],
+            "writers": [
+                "nm1071095"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001716",
+        "fields": {
+            "directors": [
+                "nm0294276"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001731",
+        "fields": {
+            "directors": [
+                "nm0738202"
+            ],
+            "writers": [
+                "nm0164888",
+                "nm0738202",
+                "nm16380220"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001756",
+        "fields": {
+            "directors": [
+                "nm0005717",
+                "nm0611814"
+            ],
+            "writers": [
+                "nm0005717",
+                "nm0611814"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001764",
+        "fields": {
+            "directors": [
+                "nm0023107"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001778",
+        "fields": {
+            "directors": [
+                "\\N"
+            ],
+            "writers": [
+                "nm0742633"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001785",
+        "fields": {
+            "directors": [
+                "nm0738202"
+            ],
+            "writers": [
+                "\\N"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001790",
+        "fields": {
+            "directors": [
+                "nm0135052"
+            ],
+            "writers": [
+                "nm0135053",
+                "nm0401076"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001803",
+        "fields": {
+            "directors": [
+                "nm0511143"
+            ],
+            "writers": [
+                "nm0401744"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001812",
+        "fields": {
+            "directors": [
+                "nm0294276"
+            ],
+            "writers": [
+                "nm0814668"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001889",
+        "fields": {
+            "directors": [
+                "nm0727484"
+            ],
+            "writers": [
+                "nm0727484",
+                "nm0742120"
+            ]
+        }
+    },
+    {
+        "model": "miapp.titlecrew",
+        "pk": "tt0001892",
+        "fields": {
+            "directors": [
+                "nm0300487"
+            ],
+            "writers": [
+                "nm0300487",
+                "nm2131092"
+            ]
+        }
+    }
+]
