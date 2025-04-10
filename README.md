@@ -43,9 +43,9 @@ Modifica el archivo `.env` con tus credenciales de base de datos y otros paráme
 
 ## Pruebas
 
-        htpp://localhost
+        http://localhost
 
-        htto://localhost/mipp/api/search
+        http://localhost/mipp/api/search
 
 ## Recursos de Ayuda
 
